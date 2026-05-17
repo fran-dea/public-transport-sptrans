@@ -1,0 +1,76 @@
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\contentsline {chapter}{Introdução}{1}{section*.4}%
+\contentsline {chapter}{\numberline {1}Metodologia}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}O General Transit Feed Specification (GTFS)}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Dados de passageiros por linha}{6}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Padronização e otimização}{7}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Unificação}{8}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Dados complementares}{8}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Dados do IBGE}{8}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Estações de trem e metrô}{10}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Zonas da cidade de São Paulo}{10}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.4}Exploração inicial dos dados: busca por inconsistências}{10}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Rotas descontinuadas, sem dados ou com dados faltantes: Análise de intersecção}{11}{subsection.1.4.1}%
+\contentsline {subsubsection}{Rotas descontinuadas}{11}{figure.caption.7}%
+\contentsline {subsubsection}{Rotas sem paradas}{12}{table.1.2}%
+\contentsline {subsubsection}{Rotas sem passageiros}{12}{table.1.2}%
+\contentsline {subsubsection}{Rotas sem passageiros e paradas}{13}{table.caption.8}%
+\contentsline {section}{\numberline {1.5}Solicitação de dados ao Serviço de Informação ao Cidadão}{13}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Análise das inconsistências}{14}{subsection.1.5.1}%
+\contentsline {section}{\numberline {1.6}Descrição da estrutura final dos dados}{15}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Rotas}{15}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Paradas}{15}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Passageiros}{15}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}População}{16}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}Estações de trem e metrô}{16}{subsection.1.6.5}%
+\contentsline {subsection}{\numberline {1.6.6}Merges}{16}{subsection.1.6.6}%
+\contentsline {section}{\numberline {1.7}Grafos}{17}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Definição}{17}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}Aplicação}{18}{subsection.1.7.2}%
+\contentsline {subsubsection}{Como criar o grafo}{18}{subsection.1.7.2}%
+\contentsline {subsubsection}{Cálculo de métricas de centralidade}{19}{subsection.1.7.2}%
+\contentsline {section}{\numberline {1.8}Cálculo da distância percorrida pelas rotas}{20}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Noções estatísticas}{21}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}Regressão linear}{21}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}O boxplot}{21}{subsection.1.9.2}%
+\contentsline {chapter}{\numberline {2}Resultados}{23}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Estatísticas e análises gráficas}{23}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Quantidade de linhas e paradas ao longo do tempo }{23}{subsection.2.1.1}%
+\contentsline {subsubsection}{Divisão por zona}{24}{figure.caption.15}%
+\contentsline {subsubsection}{Divisão por bairro}{26}{figure.2.3}%
+\contentsline {subsubsection}{Divisão por proximidade a trem e metrô}{27}{figure.caption.18}%
+\contentsline {subsection}{\numberline {2.1.2}Novas linhas e paradas ao longo do tempo}{30}{subsection.2.1.2}%
+\contentsline {subsubsection}{Divisão por região}{32}{figure.caption.22}%
+\contentsline {subsubsection}{Divisão por bairro}{33}{figure.caption.23}%
+\contentsline {subsubsection}{Divisão por estação mais próxima}{34}{figure.caption.24}%
+\contentsline {subsection}{\numberline {2.1.3}Correlação com a população}{35}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Análise geral das rotas}{36}{subsection.2.1.4}%
+\contentsline {subsubsection}{Rotas por cor}{36}{subsection.2.1.4}%
+\contentsline {subsubsection}{Rotas noturnas}{38}{figure.caption.29}%
+\contentsline {subsubsection}{Rotas circulares}{38}{figure.caption.31}%
+\contentsline {subsubsection}{Frequência de operação}{39}{figure.caption.33}%
+\contentsline {subsubsection}{Dias de operação}{41}{figure.caption.35}%
+\contentsline {subsubsection}{Nome das rotas}{42}{figure.caption.36}%
+\contentsline {subsection}{\numberline {2.1.5}Ranking de rotas}{43}{subsection.2.1.5}%
+\contentsline {subsubsection}{Ranking de rotas por passageiros}{43}{subsection.2.1.5}%
+\contentsline {subsubsection}{Ranking de rotas por distância percorrida}{44}{table.caption.38}%
+\contentsline {subsection}{\numberline {2.1.6}Análise de centralidade}{44}{subsection.2.1.6}%
+\contentsline {subsubsection}{Análise temporal}{45}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Análise geral dos passageiros}{47}{subsection.2.1.7}%
+\contentsline {section}{\numberline {2.2}Análise da Reestruturação das Linhas de Ônibus da Zona Oeste após a Inauguração da Estação Vila Sônia}{50}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Contexto da Inauguração}{50}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Seleção das Linhas da Zona Oeste}{50}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Histórico de passageiros nas linhas afetadas}{51}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}As duas linhas mais afetadas: 745810 e 701310}{52}{subsection.2.2.4}%
+\contentsline {subsubsection}{A linha 745810}{52}{subsection.2.2.4}%
+\contentsline {subsubsection}{A linha 701310}{54}{figure.caption.54}%
+\contentsline {subsubsection}{Outras considerações}{56}{figure.caption.56}%
+\contentsline {section}{\numberline {2.3}Painel interativo - Analise qualquer rota da cidade da SPTrans}{56}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Resumo dos principais resultados e suas interpretações}{58}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Conclusões}{61}{chapter.3}%
+\vspace {2\baselineskip plus .5\baselineskip minus .5\baselineskip }
+\contentsline {chapter}{Refer\^encias}{63}{chapter*.59}%

@@ -1,0 +1,1404 @@
+PWD c:\Users\franc\Documents\GitHub\public-transport-sptrans\Trabalho_de_Conclusão_de_Curso___Francielly_Meira
+INPUT C:\Users\franc\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\bxpdfver\bxpdfver.sty
+OUTPUT tese.log
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\bxpdfver\bxpdfver.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT c:\Users\franc\Documents\GitHub\public-transport-sptrans\Trabalho_de_Conclusão_de_Curso___Francielly_Meira\tese.tex
+INPUT c:\Users\franc\Documents\GitHub\public-transport-sptrans\Trabalho_de_Conclusão_de_Curso___Francielly_Meira\tese.tex
+INPUT c:\Users\franc\Documents\GitHub\public-transport-sptrans\Trabalho_de_Conclusão_de_Curso___Francielly_Meira\tese.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\bk12.clo
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT .\imegoodies.sty
+INPUT imegoodies.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\letltxmacro\letltxmacro.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\filehook\filehook.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\filehook\filehook.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\filehook\filehook-2020.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\filehook\filehook-2020.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\regexpatch\regexpatch.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\regexpatch\regexpatch.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thmtools.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-patch.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\parseargs.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-kv.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-autoref.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\aliasctr.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-listof.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-restate.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\thmtools\thm-amsthm.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT .\evenragged.sty
+INPUT evenragged.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\footmisc\footmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\footmisc\footmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fnpct\fnpct.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fnpct\fnpct.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\emptypage\emptypage.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\emptypage\emptypage.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\svgnam.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\svgnam.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\svgnam.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\x11nam.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\x11nam.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\x11nam.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\textcase\textcase.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-brazilian.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-brazilian.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-brazilian.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\pt\babel-pt-BR.ini
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\babel-portuges\brazilian.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\babel-portuges\brazilian.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\babel-portuges\brazilian.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\oberdiek\iflang.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\oberdiek\iflang.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pdftex\glyphtounicode.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lm\lmodern.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lm\lmodern.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\fix-cm.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\fix-cm.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1enc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr12.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\floatrow\floatrow.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\floatrow\floatrow.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\rotating.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\rotating.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\flafter.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\flafter.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fewerfloatpages\fewerfloatpages.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fewerfloatpages\fewerfloatpages.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\sttools\stfloats.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\sttools\stfloats.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperxmp\hyperxmp.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hyperxmp\hyperxmp.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ifmtarg\ifmtarg.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ifmtarg\ifmtarg.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\ifdraft.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\ifdraft.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\adjustbox.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\adjustbox.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\adjcalc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\adjcalc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\trimclip.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\trimclip.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\collectbox\collectbox.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\collectbox\collectbox.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\tc-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\tc-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\adjustbox\tc-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ifoddpage\ifoddpage.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\graphics\rotating.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\threeparttable\threeparttable.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\threeparttable\threeparttable.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tablefootnote\tablefootnote.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tablefootnote\tablefootnote.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xifthen\xifthen.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xifthen\xifthen.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\makecell\makecell.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\makecell\makecell.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\cancel\cancel.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\cancel\cancel.sty
+INPUT .\froufrou.sty
+INPUT froufrou.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fourier-orns.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fourier-orns.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul-ori.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul-ori.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\soul\soulutf8.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\soul\soulutf8.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\todonotes\todonotes.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\todonotes\todonotes.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybackgrounds.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybackgrounds.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypatterns.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypatterns.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibrarypatterns.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibrarypatterns.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgfplots\pgfplots.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\pgfplots\pgfplots.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplotscore.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\pgfplotslibrary.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsarray.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsmatrix.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\numtable\pgfplotstableshared.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsdeque.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotsbinary.data.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.verb.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\pgflibrarypgfplots.surfshading.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotscolormap.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\util\pgfplotscolor.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplotsstackedplots.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplotsplothandlers.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplotsmeshplothandler.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplotsmeshplotimage.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.scaling.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplotscoordprocessing.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.errorbars.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.markers.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplotsticks.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\pgfplots.paths.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT .\imelooks.sty
+INPUT imelooks.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\sourcecodepro\sourcecodepro.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\sourcecodepro\sourcecodepro.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\ly1enc.dfu
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\ly1enc.dfu
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\ly1enc.dfu
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\mweights\mweights.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus\libertinus.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus\libertinus.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\libertinus-type1.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\libertinus-type1.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\libertinust1math.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\libertinust1math.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\contour\contour.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\contour\contour.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\contour\contour.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\contour\contour.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\contour\contour.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\contour\pdftex.cnt
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\contour\pdftex.cnt
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\contour\pdftex.cnt
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hypcap\hypcap.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\hypcap\hypcap.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT .\plainnat-ime.bbx
+INPUT .\plainnat-ime.bbx
+INPUT plainnat-ime.bbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\alphabetic.bbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\alphabetic.bbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\alphabetic.bbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT .\plainnat-ime.cbx
+INPUT .\plainnat-ime.cbx
+INPUT plainnat-ime.cbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear.cbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear.cbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear.cbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\parskip\parskip.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lstaddons\lstautogobble.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\lstaddons\lstautogobble.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT .\lstpseudocode.sty
+INPUT .\lstpseudocode.sty
+INPUT lstpseudocode.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang2.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang2.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang2.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang3.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang3.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang3.sty
+INPUT .\lstpseudocode.sty
+INPUT .\lstpseudocode.sty
+INPUT lstpseudocode.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2\datetime2.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2\datetime2.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tracklang\tracklang.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tracklang\tracklang.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\tracklang\tracklang.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-english\datetime2-english.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-english\datetime2-english.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-english\datetime2-english.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-english\datetime2-english-base.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-english\datetime2-english-base.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-english\datetime2-english-base.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-portuges\datetime2-portuges.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-portuges\datetime2-portuges.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-portuges\datetime2-portuges.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-portuges\datetime2-portuges-ascii.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-portuges\datetime2-portuges-ascii.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\datetime2-portuges\datetime2-portuges-ascii.ldf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\appendix\appendix.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\appendix\appendix.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\imakeidx\imakeidx.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\imakeidx\imakeidx.sty
+OUTPUT tese.idx
+INPUT .\mkidxhead.ist
+INPUT mkidxhead.ist
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\hologo\hologo.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\hologo\hologo.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\smartdiagram\smartdiagram.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\smartdiagram\smartdiagram.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\xstring\xstring.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+OUTPUT tese.pdf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshadows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshadows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.arrows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.arrows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.arrows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.arrows.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.symbols.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.symbols.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.symbols.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.symbols.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\smartdiagram\smartdiagramlibrarycore.definitions.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\smartdiagram\smartdiagramlibrarycore.definitions.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\smartdiagram\smartdiagramlibrarycore.styles.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\smartdiagram\smartdiagramlibrarycore.styles.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\smartdiagram\smartdiagramlibrarycore.commands.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\smartdiagram\smartdiagramlibrarycore.commands.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\smartdiagram\smartdiagramlibraryadditions.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\smartdiagram\smartdiagramlibraryadditions.code.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\placeins\placeins.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\placeins\placeins.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\t1libertinusserif-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\t1libertinusserif-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\t1libertinusserif-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.tfm
+INPUT .\tese.aux
+INPUT .\tese.aux
+INPUT tese.aux
+OUTPUT tese.aux
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls1libertinust1math.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls1libertinust1math.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls1libertinust1math.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathsym.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathsym.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathsym.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-brazil.trsl
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-brazil.trsl
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-brazil.trsl
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-months-dictionary-Portuguese.dict
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-months-dictionary-Portuguese.dict
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-months-dictionary-Portuguese.dict
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\floatrow\fr-longtable.sty
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\floatrow\fr-longtable.sty
+INPUT .\tese.out
+INPUT .\tese.out
+INPUT tese.out
+INPUT tese.out
+INPUT .\tese.out
+INPUT .\tese.out
+OUTPUT tese.out
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\brazilian.lbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
+OUTPUT tese.bcf
+INPUT tese.bbl
+INPUT .\tese.bbl
+INPUT .\tese.bbl
+INPUT .\tese.bbl
+INPUT tese.bbl
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-sc-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathex.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathex.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls2libertinust1mathex.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msa.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msa.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msa.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-msb.cfg
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls1libertinust1mathbb.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls1libertinust1mathbb.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinust1math\ls1libertinust1mathbb.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\ts1libertinusserif-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\ts1libertinusserif-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\ts1libertinusserif-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-ts1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinus-type1\lbn1_sfissr.enc
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-BoldItalic-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-BoldItalic-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinus-type1\lbn1_opzo24.enc
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinus-type1\lbn1_75t36g.enc
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Regular-tlf-sc-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-sc-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinus-type1\lbn1_cb34qf.enc
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Regular-tlf-ts1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-ts1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinus-type1\lbn1_rlktsf.enc
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Italic-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Italic-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Italic-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinus-type1\lbn1_sncvby.enc
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Italic-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT .\conteudo\resumoabstract.tex
+INPUT .\conteudo\resumoabstract.tex
+INPUT .\conteudo\resumoabstract.tex
+INPUT .\conteudo\resumoabstract.tex
+INPUT conteudo\resumoabstract.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Italic-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Italic-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-BoldItalic-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-BoldItalic-tlf-t1--base.tfm
+INPUT .\tese.toc
+INPUT .\tese.toc
+INPUT tese.toc
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1--base.tfm
+OUTPUT tese.toc
+INPUT .\conteudo\00-introducao.tex
+INPUT .\conteudo\00-introducao.tex
+INPUT .\conteudo\00-introducao.tex
+INPUT .\conteudo\00-introducao.tex
+INPUT conteudo\00-introducao.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-sc-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Regular-tlf-sc-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-sc-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Italic-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Italic-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Italic-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\t1libertinussans-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\t1libertinussans-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\libertinus-type1\t1libertinussans-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSans-Regular-tlf-t1.tfm
+INPUT .\conteudo\01-literatura.tex
+INPUT .\conteudo\01-literatura.tex
+INPUT .\conteudo\01-literatura.tex
+INPUT .\conteudo\01-literatura.tex
+INPUT conteudo\01-literatura.tex
+INPUT .\conteudo\02-metodologia.tex
+INPUT .\conteudo\02-metodologia.tex
+INPUT .\conteudo\02-metodologia.tex
+INPUT .\conteudo\02-metodologia.tex
+INPUT conteudo\02-metodologia.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSans-Regular-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSans-Regular-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinus-type1\lbn1_mfadfl.enc
+INPUT .\figuras\organizacao gtfs.png
+INPUT .\figuras\organizacao gtfs.png
+INPUT .\figuras\organizacao gtfs.png
+INPUT .\figuras\organizacao gtfs.png
+INPUT .\figuras\organizacao gtfs.png
+INPUT .\figuras\organizacao gtfs.png
+INPUT .\figuras\organizacao gtfs.png
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Bold-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\sourcecodepro\t1sourcecodepro-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\sourcecodepro\t1sourcecodepro-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\latex\sourcecodepro\t1sourcecodepro-tlf.fd
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcecodepro\SourceCodePro-Regular-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathsym.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathex.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathbb.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathrm-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinust1math\libertinust1-mathit-bold.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSans-Regular-tlf-t1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcecodepro\SourceCodePro-Regular-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcecodepro\SourceCodePro-Regular-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\sourcecodepro\a_rzhnou.enc
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSans-Regular-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSans-Regular-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-ts1.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Regular-tlf-ts1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-ts1--base.tfm
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas.png
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\vf\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.vf
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1--base.tfm
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinust1math\libusSYM.enc
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinust1math\libusMI.enc
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas_historico.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas_historico.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas_historico.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas_historico.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas_historico.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas_historico.png
+INPUT .\figuras\diagrama_de_venn_intersec_rotas_passageiros_paradas_historico.png
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\libertinus-type1\LibertinusSerif-Regular-tlf-t1.tfm
+INPUT .\figuras\schema tabelas relações.drawio.png
+INPUT .\figuras\schema tabelas relações.drawio.png
+INPUT .\figuras\schema tabelas relações.drawio.png
+INPUT .\figuras\schema tabelas relações.drawio.png
+INPUT .\figuras\schema tabelas relações.drawio.png
+INPUT .\figuras\schema tabelas relações.drawio.png
+INPUT .\figuras\schema tabelas relações.drawio.png
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinust1math\libusMR.enc
+INPUT .\figuras\mapa metro.png
+INPUT .\figuras\mapa metro.png
+INPUT .\figuras\mapa metro.png
+INPUT .\figuras\mapa metro.png
+INPUT .\figuras\mapa metro.png
+INPUT .\figuras\mapa metro.png
+INPUT .\figuras\mapa metro.png
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\libertinust1math\libusEX.enc
+INPUT .\figuras\boxplot-interpretation.png
+INPUT .\figuras\boxplot-interpretation.png
+INPUT .\figuras\boxplot-interpretation.png
+INPUT .\figuras\boxplot-interpretation.png
+INPUT .\figuras\boxplot-interpretation.png
+INPUT .\figuras\boxplot-interpretation.png
+INPUT .\figuras\boxplot-interpretation.png
+INPUT .\conteudo\04-resultados.tex
+INPUT .\conteudo\04-resultados.tex
+INPUT .\conteudo\04-resultados.tex
+INPUT .\conteudo\04-resultados.tex
+INPUT conteudo\04-resultados.tex
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo por zona.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo por zona.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo por zona.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo por zona.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo por zona.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo por zona.png
+INPUT .\figuras\rotas e paradas\qtd de paradas e rotas ao longo do tempo por zona.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por regioes.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por regioes.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por regioes.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por regioes.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por regioes.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por regioes.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por regioes.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 1.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 1.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 1.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 1.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 1.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 1.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 1.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 2.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 2.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 2.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 2.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 2.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 2.png
+INPUT .\figuras\rotas e paradas\qtd de rotas e paradas ao longo do tempo por bairro 2.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas itaquera.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas itaquera.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas itaquera.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas itaquera.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas itaquera.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas itaquera.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas itaquera.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas sp.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas sp.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas sp.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas sp.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas sp.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas sp.png
+INPUT .\figuras\rotas e paradas\distancia media percorrida pelas rotas sp.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 1.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 2.png
+INPUT .\figuras\rotas e paradas\rotas e paradas ao longo do tempo por estações atuais e planejadas 2.png
+INPUT .\figuras\rotas e paradas\boxplot_jd_angela.png
+INPUT .\figuras\rotas e paradas\boxplot_jd_angela.png
+INPUT .\figuras\rotas e paradas\boxplot_jd_angela.png
+INPUT .\figuras\rotas e paradas\boxplot_jd_angela.png
+INPUT .\figuras\rotas e paradas\boxplot_jd_angela.png
+INPUT .\figuras\rotas e paradas\boxplot_jd_angela.png
+INPUT .\figuras\rotas e paradas\boxplot_jd_angela.png
+INPUT .\figuras\rotas e paradas\Novas parada e rotas por data.png
+INPUT .\figuras\rotas e paradas\Novas parada e rotas por data.png
+INPUT .\figuras\rotas e paradas\Novas parada e rotas por data.png
+INPUT .\figuras\rotas e paradas\Novas parada e rotas por data.png
+INPUT .\figuras\rotas e paradas\Novas parada e rotas por data.png
+INPUT .\figuras\rotas e paradas\Novas parada e rotas por data.png
+INPUT .\figuras\rotas e paradas\Novas parada e rotas por data.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e zona.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e bairro.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas rotas por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e estacao.png
+INPUT .\figuras\rotas e paradas\Novas parada por data e estacao.png
+INPUT .\figuras\rotas e paradas\correlação população e paradas.png
+INPUT .\figuras\rotas e paradas\correlação população e paradas.png
+INPUT .\figuras\rotas e paradas\correlação população e paradas.png
+INPUT .\figuras\rotas e paradas\correlação população e paradas.png
+INPUT .\figuras\rotas e paradas\correlação população e paradas.png
+INPUT .\figuras\rotas e paradas\correlação população e paradas.png
+INPUT .\figuras\rotas e paradas\correlação população e paradas.png
+INPUT .\figuras\rotas e paradas\correlação população e rotas.png
+INPUT .\figuras\rotas e paradas\correlação população e rotas.png
+INPUT .\figuras\rotas e paradas\correlação população e rotas.png
+INPUT .\figuras\rotas e paradas\correlação população e rotas.png
+INPUT .\figuras\rotas e paradas\correlação população e rotas.png
+INPUT .\figuras\rotas e paradas\correlação população e rotas.png
+INPUT .\figuras\rotas e paradas\correlação população e rotas.png
+INPUT .\figuras\mapa-da-divisao-de-cores-dos-onibus-de-sao-paulo-184838.jpg
+INPUT .\figuras\mapa-da-divisao-de-cores-dos-onibus-de-sao-paulo-184838.jpg
+INPUT .\figuras\mapa-da-divisao-de-cores-dos-onibus-de-sao-paulo-184838.jpg
+INPUT .\figuras\mapa-da-divisao-de-cores-dos-onibus-de-sao-paulo-184838.jpg
+INPUT .\figuras\mapa-da-divisao-de-cores-dos-onibus-de-sao-paulo-184838.jpg
+INPUT .\figuras\mapa-da-divisao-de-cores-dos-onibus-de-sao-paulo-184838.jpg
+INPUT .\figuras\mapa-da-divisao-de-cores-dos-onibus-de-sao-paulo-184838.jpg
+INPUT .\figuras\rotas e paradas\qtd de rotas por cor.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por cor.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por cor.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por cor.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por cor.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por cor.png
+INPUT .\figuras\rotas e paradas\qtd de rotas por cor.png
+INPUT .\figuras\rotas e paradas\freq das rotas noturnas por horario.png
+INPUT .\figuras\rotas e paradas\freq das rotas noturnas por horario.png
+INPUT .\figuras\rotas e paradas\freq das rotas noturnas por horario.png
+INPUT .\figuras\rotas e paradas\freq das rotas noturnas por horario.png
+INPUT .\figuras\rotas e paradas\freq das rotas noturnas por horario.png
+INPUT .\figuras\rotas e paradas\freq das rotas noturnas por horario.png
+INPUT .\figuras\rotas e paradas\freq das rotas noturnas por horario.png
+INPUT .\figuras\rotas e paradas\media dist percorrida rotas circulares.png
+INPUT .\figuras\rotas e paradas\media dist percorrida rotas circulares.png
+INPUT .\figuras\rotas e paradas\media dist percorrida rotas circulares.png
+INPUT .\figuras\rotas e paradas\media dist percorrida rotas circulares.png
+INPUT .\figuras\rotas e paradas\media dist percorrida rotas circulares.png
+INPUT .\figuras\rotas e paradas\media dist percorrida rotas circulares.png
+INPUT .\figuras\rotas e paradas\media dist percorrida rotas circulares.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias butanta.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias butanta.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias butanta.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias butanta.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias butanta.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias butanta.png
+INPUT .\figuras\rotas e paradas\boxplot frequencias butanta.png
+INPUT .\figuras\rotas e paradas\distribuição das rotas por dias de operacao.png
+INPUT .\figuras\rotas e paradas\distribuição das rotas por dias de operacao.png
+INPUT .\figuras\rotas e paradas\distribuição das rotas por dias de operacao.png
+INPUT .\figuras\rotas e paradas\distribuição das rotas por dias de operacao.png
+INPUT .\figuras\rotas e paradas\distribuição das rotas por dias de operacao.png
+INPUT .\figuras\rotas e paradas\distribuição das rotas por dias de operacao.png
+INPUT .\figuras\rotas e paradas\distribuição das rotas por dias de operacao.png
+INPUT .\figuras\rotas e paradas\wordcloud.png
+INPUT .\figuras\rotas e paradas\wordcloud.png
+INPUT .\figuras\rotas e paradas\wordcloud.png
+INPUT .\figuras\rotas e paradas\wordcloud.png
+INPUT .\figuras\rotas e paradas\wordcloud.png
+INPUT .\figuras\rotas e paradas\wordcloud.png
+INPUT .\figuras\rotas e paradas\wordcloud.png
+INPUT .\figuras\centralidade_grafo\betweenness centrality por ano.png
+INPUT .\figuras\centralidade_grafo\betweenness centrality por ano.png
+INPUT .\figuras\centralidade_grafo\betweenness centrality por ano.png
+INPUT .\figuras\centralidade_grafo\betweenness centrality por ano.png
+INPUT .\figuras\centralidade_grafo\betweenness centrality por ano.png
+INPUT .\figuras\centralidade_grafo\betweenness centrality por ano.png
+INPUT .\figuras\centralidade_grafo\betweenness centrality por ano.png
+INPUT .\figuras\centralidade_grafo\correlação betweenness centrality e qtd de paradas.png
+INPUT .\figuras\centralidade_grafo\correlação betweenness centrality e qtd de paradas.png
+INPUT .\figuras\centralidade_grafo\correlação betweenness centrality e qtd de paradas.png
+INPUT .\figuras\centralidade_grafo\correlação betweenness centrality e qtd de paradas.png
+INPUT .\figuras\centralidade_grafo\correlação betweenness centrality e qtd de paradas.png
+INPUT .\figuras\centralidade_grafo\correlação betweenness centrality e qtd de paradas.png
+INPUT .\figuras\centralidade_grafo\correlação betweenness centrality e qtd de paradas.png
+INPUT .\figuras\centralidade_grafo\qqplot residuos.png
+INPUT .\figuras\centralidade_grafo\qqplot residuos.png
+INPUT .\figuras\centralidade_grafo\qqplot residuos.png
+INPUT .\figuras\centralidade_grafo\qqplot residuos.png
+INPUT .\figuras\centralidade_grafo\qqplot residuos.png
+INPUT .\figuras\centralidade_grafo\qqplot residuos.png
+INPUT .\figuras\centralidade_grafo\qqplot residuos.png
+INPUT .\figuras\centralidade_grafo\degree centrality.png
+INPUT .\figuras\centralidade_grafo\degree centrality.png
+INPUT .\figuras\centralidade_grafo\degree centrality.png
+INPUT .\figuras\centralidade_grafo\degree centrality.png
+INPUT .\figuras\centralidade_grafo\degree centrality.png
+INPUT .\figuras\centralidade_grafo\degree centrality.png
+INPUT .\figuras\centralidade_grafo\degree centrality.png
+INPUT .\figuras\centralidade_grafo\closeness.png
+INPUT .\figuras\centralidade_grafo\closeness.png
+INPUT .\figuras\centralidade_grafo\closeness.png
+INPUT .\figuras\centralidade_grafo\closeness.png
+INPUT .\figuras\centralidade_grafo\closeness.png
+INPUT .\figuras\centralidade_grafo\closeness.png
+INPUT .\figuras\centralidade_grafo\closeness.png
+INPUT .\figuras\passageiros\qtd mensal de passageiros ano.png
+INPUT .\figuras\passageiros\qtd mensal de passageiros ano.png
+INPUT .\figuras\passageiros\qtd mensal de passageiros ano.png
+INPUT .\figuras\passageiros\qtd mensal de passageiros ano.png
+INPUT .\figuras\passageiros\qtd mensal de passageiros ano.png
+INPUT .\figuras\passageiros\qtd mensal de passageiros ano.png
+INPUT .\figuras\passageiros\qtd mensal de passageiros ano.png
+INPUT .\figuras\passageiros\qtd de passageiros por categoria.png
+INPUT .\figuras\passageiros\qtd de passageiros por categoria.png
+INPUT .\figuras\passageiros\qtd de passageiros por categoria.png
+INPUT .\figuras\passageiros\qtd de passageiros por categoria.png
+INPUT .\figuras\passageiros\qtd de passageiros por categoria.png
+INPUT .\figuras\passageiros\qtd de passageiros por categoria.png
+INPUT .\figuras\passageiros\qtd de passageiros por categoria.png
+INPUT .\figuras\passageiros\qtd passageiros dinheiro ano.png
+INPUT .\figuras\passageiros\qtd passageiros dinheiro ano.png
+INPUT .\figuras\passageiros\qtd passageiros dinheiro ano.png
+INPUT .\figuras\passageiros\qtd passageiros dinheiro ano.png
+INPUT .\figuras\passageiros\qtd passageiros dinheiro ano.png
+INPUT .\figuras\passageiros\qtd passageiros dinheiro ano.png
+INPUT .\figuras\passageiros\qtd passageiros dinheiro ano.png
+INPUT .\figuras\passageiros\qtd passageiros gratuitos por ano.png
+INPUT .\figuras\passageiros\qtd passageiros gratuitos por ano.png
+INPUT .\figuras\passageiros\qtd passageiros gratuitos por ano.png
+INPUT .\figuras\passageiros\qtd passageiros gratuitos por ano.png
+INPUT .\figuras\passageiros\qtd passageiros gratuitos por ano.png
+INPUT .\figuras\passageiros\qtd passageiros gratuitos por ano.png
+INPUT .\figuras\passageiros\qtd passageiros gratuitos por ano.png
+INPUT .\figuras\analise_vila_sonia\passageiros rotas afetadas.png
+INPUT .\figuras\analise_vila_sonia\passageiros rotas afetadas.png
+INPUT .\figuras\analise_vila_sonia\passageiros rotas afetadas.png
+INPUT .\figuras\analise_vila_sonia\passageiros rotas afetadas.png
+INPUT .\figuras\analise_vila_sonia\passageiros rotas afetadas.png
+INPUT .\figuras\analise_vila_sonia\passageiros rotas afetadas.png
+INPUT .\figuras\analise_vila_sonia\passageiros rotas afetadas.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 mai22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 mai22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 mai22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 mai22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 mai22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 mai22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 mai22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 jun22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 jun22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 jun22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 jun22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 jun22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 jun22.png
+INPUT .\figuras\analise_vila_sonia\Percurso 745810 jun22.png
+INPUT .\figuras\analise_vila_sonia\passageiros na raposo tavares.png
+INPUT .\figuras\analise_vila_sonia\passageiros na raposo tavares.png
+INPUT .\figuras\analise_vila_sonia\passageiros na raposo tavares.png
+INPUT .\figuras\analise_vila_sonia\passageiros na raposo tavares.png
+INPUT .\figuras\analise_vila_sonia\passageiros na raposo tavares.png
+INPUT .\figuras\analise_vila_sonia\passageiros na raposo tavares.png
+INPUT .\figuras\analise_vila_sonia\passageiros na raposo tavares.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 745810 - Jd Boa Vista.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 745810 - Jd Boa Vista.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 745810 - Jd Boa Vista.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 745810 - Jd Boa Vista.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 745810 - Jd Boa Vista.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 745810 - Jd Boa Vista.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 745810 - Jd Boa Vista.png
+INPUT .\figuras\analise_vila_sonia\reserva raposo planejamento.png
+INPUT .\figuras\analise_vila_sonia\reserva raposo planejamento.png
+INPUT .\figuras\analise_vila_sonia\reserva raposo planejamento.png
+INPUT .\figuras\analise_vila_sonia\reserva raposo planejamento.png
+INPUT .\figuras\analise_vila_sonia\reserva raposo planejamento.png
+INPUT .\figuras\analise_vila_sonia\reserva raposo planejamento.png
+INPUT .\figuras\analise_vila_sonia\reserva raposo planejamento.png
+INPUT .\figuras\analise_vila_sonia\boxplot francisco morato.png
+INPUT .\figuras\analise_vila_sonia\boxplot francisco morato.png
+INPUT .\figuras\analise_vila_sonia\boxplot francisco morato.png
+INPUT .\figuras\analise_vila_sonia\boxplot francisco morato.png
+INPUT .\figuras\analise_vila_sonia\boxplot francisco morato.png
+INPUT .\figuras\analise_vila_sonia\boxplot francisco morato.png
+INPUT .\figuras\analise_vila_sonia\boxplot francisco morato.png
+INPUT .\figuras\analise_vila_sonia\boxplot estrada campo limpo.png
+INPUT .\figuras\analise_vila_sonia\boxplot estrada campo limpo.png
+INPUT .\figuras\analise_vila_sonia\boxplot estrada campo limpo.png
+INPUT .\figuras\analise_vila_sonia\boxplot estrada campo limpo.png
+INPUT .\figuras\analise_vila_sonia\boxplot estrada campo limpo.png
+INPUT .\figuras\analise_vila_sonia\boxplot estrada campo limpo.png
+INPUT .\figuras\analise_vila_sonia\boxplot estrada campo limpo.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 701310 - Pq. Arariba.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 701310 - Pq. Arariba.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 701310 - Pq. Arariba.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 701310 - Pq. Arariba.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 701310 - Pq. Arariba.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 701310 - Pq. Arariba.png
+INPUT .\figuras\analise_vila_sonia\Passageiros rota 701310 - Pq. Arariba.png
+INPUT .\figuras\print dash 1.png
+INPUT .\figuras\print dash 1.png
+INPUT .\figuras\print dash 1.png
+INPUT .\figuras\print dash 1.png
+INPUT .\figuras\print dash 1.png
+INPUT .\figuras\print dash 1.png
+INPUT .\figuras\print dash 1.png
+INPUT .\figuras\print dash 2.png
+INPUT .\figuras\print dash 2.png
+INPUT .\figuras\print dash 2.png
+INPUT .\figuras\print dash 2.png
+INPUT .\figuras\print dash 2.png
+INPUT .\figuras\print dash 2.png
+INPUT .\figuras\print dash 2.png
+INPUT .\conteudo\05-conclusoes.tex
+INPUT .\conteudo\05-conclusoes.tex
+INPUT .\conteudo\05-conclusoes.tex
+INPUT .\conteudo\05-conclusoes.tex
+INPUT conteudo\05-conclusoes.tex
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\se-pdfdoc.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\se-utf8.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\se-utf8.def
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\se-utf8.def
+INPUT tese.aux
+INPUT .\tese.out
+INPUT .\tese.out
+INPUT tese.run.xml
+OUTPUT tese.run.xml
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinus-type1\LibertinusSans-Regular.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinus-type1\LibertinusSans-Regular.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinus-type1\LibertinusSerif-Bold.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinus-type1\LibertinusSerif-Bold.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinus-type1\LibertinusSerif-BoldItalic.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinus-type1\LibertinusSerif-BoldItalic.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinus-type1\LibertinusSerif-Italic.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinus-type1\LibertinusSerif-Italic.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinus-type1\LibertinusSerif-Regular.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinus-type1\LibertinusSerif-Regular.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinust1math\LibertinusT1Math.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\public\libertinust1math\LibertinusT1Math.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\adobe\sourcecodepro\SourceCodePro-Regular.pfb
+INPUT C:\Users\franc\AppData\Local\Programs\MiKTeX\fonts\type1\adobe\sourcecodepro\SourceCodePro-Regular.pfb

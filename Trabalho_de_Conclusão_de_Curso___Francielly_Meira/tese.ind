@@ -1,0 +1,57 @@
+\begin{theindex}
+{\bfseries C}\nopagebreak
+
+  \item Captions, \hyperpage{}\see{Legendas}{\hyperpage{viii}}
+  \item Código-fonte, \hyperpage{}\see{Floats}{\hyperpage{viii}}
+
+  \indexspace
+{\bfseries E}\nopagebreak
+
+  \item Equações, \hyperpage{}\see{Modo matemático}{\hyperpage{viii}}
+
+  \indexspace
+{\bfseries F}\nopagebreak
+
+  \item Figuras, \hyperpage{}\see{Floats}{\hyperpage{viii}}
+  \item Floats
+    \subitem Algoritmo, \hyperpage{
+		}\see{Floats, ordem}{\hyperpage{viii}}
+  \item Fórmulas, \hyperpage{}\see{Modo matemático}{\hyperpage{viii}}
+
+  \indexspace
+{\bfseries I}\nopagebreak
+
+  \item Inglês, \hyperpage{}\see{Língua estrangeira}{\hyperpage{viii}}
+
+  \indexspace
+{\bfseries P}\nopagebreak
+
+  \item Palavras estrangeiras, \hyperpage{
+		}\see{Língua estrangeira}{\hyperpage{viii}}
+
+  \indexspace
+{\bfseries R}\nopagebreak
+
+  \item Rodapé, notas, \hyperpage{
+		}\see{Notas de rodapé}{\hyperpage{viii}}
+
+  \indexspace
+{\bfseries S}\nopagebreak
+
+  \item Subcaptions, \hyperpage{}\see{Subfiguras}{\hyperpage{viii}}
+  \item Sublegendas, \hyperpage{}\see{Subfiguras}{\hyperpage{viii}}
+
+  \indexspace
+{\bfseries T}\nopagebreak
+
+  \item Tabelas, \hyperpage{}\see{Floats}{\hyperpage{viii}}
+
+  \indexspace
+{\bfseries V}\nopagebreak
+
+  \item Versão corrigida, \hyperpage{
+		}\see{Tese/Dissertação, versões}{\hyperpage{viii}}
+  \item Versão original, \hyperpage{
+		}\see{Tese/Dissertação, versões}{\hyperpage{viii}}
+
+\end{theindex}

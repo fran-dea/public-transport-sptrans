@@ -1,0 +1,785 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{parquet_optimization}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8c292c4afb44fdd65d2dbd751a16394e}{%
+           family={Abdelaziz},
+           familyi={A\bibinitperiod},
+           given={Abdullah\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=592acc2d874fff6cd1d8ca2f2ed39a12}{%
+           family={Hanson},
+           familyi={H\bibinitperiod},
+           given={Kent\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d52c88af120af6f928d203de14c614a}{%
+           family={Gaber},
+           familyi={G\bibinitperiod},
+           given={Charles\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0174ddd3f355d63654dcba80954ff191}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Todd\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6a87cd30f8334bb73efbd788000b3fda}
+      \strng{fullhash}{ff4057e5f180d8b0b4ccc79628c767e4}
+      \strng{fullhashraw}{ff4057e5f180d8b0b4ccc79628c767e4}
+      \strng{bibnamehash}{ff4057e5f180d8b0b4ccc79628c767e4}
+      \strng{authorbibnamehash}{ff4057e5f180d8b0b4ccc79628c767e4}
+      \strng{authornamehash}{6a87cd30f8334bb73efbd788000b3fda}
+      \strng{authorfullhash}{ff4057e5f180d8b0b4ccc79628c767e4}
+      \strng{authorfullhashraw}{ff4057e5f180d8b0b4ccc79628c767e4}
+      \field{labelalpha}{Abd+24}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Purpose The use of open-source programming languages can facilitate open science practices in real-world evidence (RWE) studies. Real-world studies often rely on using big data, which makes using such languages complicated. We demonstrate an efficient approach that enables RWE researchers to use R to undertake RWE analysis tasks from cohort building to reporting. Methods Using the Merative Marketscan data (2017–2019), we developed an R function to transform the data into parquet format to be used in R. Then, we compared the differences in data size before and after transformation. We compared the performance of the transformed data in R to the original data in terms of numerical consistency and running times required to complete simple exploratory tasks. To show how the transformed databases can be used in practice, we conducted a simplified replication of an active comparator new user study from the literature. All codes are available on GitHub. Results Our approach exhibited high efficiency in data storage, as evidenced by the converted data size, which ranged from 10\% to 43\% of that of the original data files. The runtime of the exploratory tasks in R generally outperformed that of the original data with SAS. We showed, through example, how the converted data can be efficiently used to implement an RWE study. Conclusion We demonstrate a free and efficient solution to facilitate the use of open-source programming languages with big real-world databases, which can facilitate the adoption of open science practices.}
+      \field{journaltitle}{Pharmacoepidemiology and Drug Safety}
+      \field{number}{3}
+      \field{title}{Optimizing large real-world data analysis with parquet files in R: A step-by-step tutorial}
+      \field{volume}{33}
+      \field{year}{2024}
+      \field{pages}{e5728}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb https://doi.org/10.1002/pds.5728
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/pds.5728
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/pds.5728
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/pds.5728
+      \endverb
+      \keyw{big data,cohort building,open science,pharmacoepidemiology,R,real-world data}
+    \endentry
+    \entry{previsao_jd_angela_agenciamural}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=55877b3c4833fd24e9ad87b58d5eaad6}{%
+           family={{Agência Mural}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{55877b3c4833fd24e9ad87b58d5eaad6}
+      \strng{fullhash}{55877b3c4833fd24e9ad87b58d5eaad6}
+      \strng{fullhashraw}{55877b3c4833fd24e9ad87b58d5eaad6}
+      \strng{bibnamehash}{55877b3c4833fd24e9ad87b58d5eaad6}
+      \strng{authorbibnamehash}{55877b3c4833fd24e9ad87b58d5eaad6}
+      \strng{authornamehash}{55877b3c4833fd24e9ad87b58d5eaad6}
+      \strng{authorfullhash}{55877b3c4833fd24e9ad87b58d5eaad6}
+      \strng{authorfullhashraw}{55877b3c4833fd24e9ad87b58d5eaad6}
+      \field{labelalpha}{Agê25}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://agenciamural.org.br/entre-atrasos-nas-obras-moradores-do-jardim-angela-revelam-expectativas-com-o-metro/\#:~:text=Em\%20março\%20de\%202025\%2C\%20o,estações\%20seja\%20concluída\%20em\%202028.}}
+      \field{note}{Acesso em: 18 outubro 2025}
+      \field{title}{Entre atrasos nas obras, moradores do Jardim Ângela revelam expectativas com o Metrô}
+      \field{year}{2025}
+    \endentry
+    \entry{barthelemy2011spatial}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1675b58cd3901f401ee7cd3cf3ee15a4}{%
+           family={Barthélemy},
+           familyi={B\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1675b58cd3901f401ee7cd3cf3ee15a4}
+      \strng{fullhash}{1675b58cd3901f401ee7cd3cf3ee15a4}
+      \strng{fullhashraw}{1675b58cd3901f401ee7cd3cf3ee15a4}
+      \strng{bibnamehash}{1675b58cd3901f401ee7cd3cf3ee15a4}
+      \strng{authorbibnamehash}{1675b58cd3901f401ee7cd3cf3ee15a4}
+      \strng{authornamehash}{1675b58cd3901f401ee7cd3cf3ee15a4}
+      \strng{authorfullhash}{1675b58cd3901f401ee7cd3cf3ee15a4}
+      \strng{authorfullhashraw}{1675b58cd3901f401ee7cd3cf3ee15a4}
+      \field{labelalpha}{Bar11}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physics Reports}
+      \field{number}{1-3}
+      \field{title}{Spatial networks}
+      \field{volume}{499}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 101}
+      \range{pages}{101}
+    \endentry
+    \entry{pvalue}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=92b129e8c876b820849b3829dc8184a7}{%
+           family={{Christie Aschwanden}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{92b129e8c876b820849b3829dc8184a7}
+      \strng{fullhash}{92b129e8c876b820849b3829dc8184a7}
+      \strng{fullhashraw}{92b129e8c876b820849b3829dc8184a7}
+      \strng{bibnamehash}{92b129e8c876b820849b3829dc8184a7}
+      \strng{authorbibnamehash}{92b129e8c876b820849b3829dc8184a7}
+      \strng{authornamehash}{92b129e8c876b820849b3829dc8184a7}
+      \strng{authorfullhash}{92b129e8c876b820849b3829dc8184a7}
+      \strng{authorfullhashraw}{92b129e8c876b820849b3829dc8184a7}
+      \field{labelalpha}{Chr15}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values}}
+      \field{note}{Acesso em: 01 novembro 2025}
+      \field{title}{Not Even Scientists Can Easily Explain P-values}
+      \field{year}{2015}
+    \endentry
+    \entry{FREEMAN1978215}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=012eafed0334767d87ec2b33bacb3367}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={Linton\bibnamedelima C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{012eafed0334767d87ec2b33bacb3367}
+      \strng{fullhash}{012eafed0334767d87ec2b33bacb3367}
+      \strng{fullhashraw}{012eafed0334767d87ec2b33bacb3367}
+      \strng{bibnamehash}{012eafed0334767d87ec2b33bacb3367}
+      \strng{authorbibnamehash}{012eafed0334767d87ec2b33bacb3367}
+      \strng{authornamehash}{012eafed0334767d87ec2b33bacb3367}
+      \strng{authorfullhash}{012eafed0334767d87ec2b33bacb3367}
+      \strng{authorfullhashraw}{012eafed0334767d87ec2b33bacb3367}
+      \field{labelalpha}{Fre78}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The intuitive background for measures of structural centrality in social networks is reviewed and existing measures are evaluated in terms of their consistency with intuitions and their interpretability. Three distinct intuitive conceptions of centrality are uncovered and existing measures are refined to embody these conceptions. Three measures are developed for each concept, one absolute and one relative measure of the centrality of positions in a network, and one reflecting the degree of centralization of the entire network. The implications of these measures for the experimental study of small groups is examined.}
+      \field{issn}{0378-8733}
+      \field{journaltitle}{Social Networks}
+      \field{number}{3}
+      \field{title}{Centrality in social networks conceptual clarification}
+      \field{volume}{1}
+      \field{year}{1978}
+      \field{pages}{215\bibrangedash 239}
+      \range{pages}{25}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0378-8733(78)90021-7
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0378873378900217
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0378873378900217
+      \endverb
+    \endentry
+    \entry{rainha_da_madrugada}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c0497521d35d66866e3af408094864c3}{%
+           family={{G1}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c0497521d35d66866e3af408094864c3}
+      \strng{fullhash}{c0497521d35d66866e3af408094864c3}
+      \strng{fullhashraw}{c0497521d35d66866e3af408094864c3}
+      \strng{bibnamehash}{c0497521d35d66866e3af408094864c3}
+      \strng{authorbibnamehash}{c0497521d35d66866e3af408094864c3}
+      \strng{authornamehash}{c0497521d35d66866e3af408094864c3}
+      \strng{authorfullhash}{c0497521d35d66866e3af408094864c3}
+      \strng{authorfullhashraw}{c0497521d35d66866e3af408094864c3}
+      \field{extraname}{1}
+      \field{labelalpha}{G114}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://g1.globo.com/sao-paulo/noticia/2014/08/maior-linha-de-onibus-de-sp-tem-102-km-e-leva-4h40-para-completar-trajeto.html}}
+      \field{note}{Acesso em: 19 outubro 2025}
+      \field{title}{Maior linha de ônibus de SP tem 102 km e leva 4h40 para completar trajeto}
+      \field{year}{2014}
+    \endentry
+    \entry{volta_presencial}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c0497521d35d66866e3af408094864c3}{%
+           family={{G1}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c0497521d35d66866e3af408094864c3}
+      \strng{fullhash}{c0497521d35d66866e3af408094864c3}
+      \strng{fullhashraw}{c0497521d35d66866e3af408094864c3}
+      \strng{bibnamehash}{c0497521d35d66866e3af408094864c3}
+      \strng{authorbibnamehash}{c0497521d35d66866e3af408094864c3}
+      \strng{authornamehash}{c0497521d35d66866e3af408094864c3}
+      \strng{authorfullhash}{c0497521d35d66866e3af408094864c3}
+      \strng{authorfullhashraw}{c0497521d35d66866e3af408094864c3}
+      \field{extraname}{2}
+      \field{labelalpha}{G125}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://g1.globo.com/trabalho-e-carreira/noticia/2025/02/26/home-office-vai-acabar-por-que-cada-vez-mais-empresas-estao-voltando-ao-trabalho-presencial.ghtml}}
+      \field{note}{Acesso em: 3 agosto 2025}
+      \field{title}{Home office vai acabar? Por que cada vez mais empresas estão voltando ao trabalho presencial}
+      \field{year}{2025}
+    \endentry
+    \entry{geopandas}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a854d5be3043d0eca6978e3166d7011}{%
+           family={{Geopandas}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a854d5be3043d0eca6978e3166d7011}
+      \strng{fullhash}{3a854d5be3043d0eca6978e3166d7011}
+      \strng{fullhashraw}{3a854d5be3043d0eca6978e3166d7011}
+      \strng{bibnamehash}{3a854d5be3043d0eca6978e3166d7011}
+      \strng{authorbibnamehash}{3a854d5be3043d0eca6978e3166d7011}
+      \strng{authornamehash}{3a854d5be3043d0eca6978e3166d7011}
+      \strng{authorfullhash}{3a854d5be3043d0eca6978e3166d7011}
+      \strng{authorfullhashraw}{3a854d5be3043d0eca6978e3166d7011}
+      \field{labelalpha}{Geo24}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/geopandas/geopandas/blob/main/geopandas/tools/sjoin.py}}
+      \field{note}{Acesso em: 01 novembro 2025}
+      \field{title}{Geopandas sjoin}
+      \field{year}{2024}
+    \endentry
+    \entry{gtfs_org_about}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=749e78e1b6383cac9326d0ea65e2e850}{%
+           family={{GTFS Org}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{749e78e1b6383cac9326d0ea65e2e850}
+      \strng{fullhash}{749e78e1b6383cac9326d0ea65e2e850}
+      \strng{fullhashraw}{749e78e1b6383cac9326d0ea65e2e850}
+      \strng{bibnamehash}{749e78e1b6383cac9326d0ea65e2e850}
+      \strng{authorbibnamehash}{749e78e1b6383cac9326d0ea65e2e850}
+      \strng{authornamehash}{749e78e1b6383cac9326d0ea65e2e850}
+      \strng{authorfullhash}{749e78e1b6383cac9326d0ea65e2e850}
+      \strng{authorfullhashraw}{749e78e1b6383cac9326d0ea65e2e850}
+      \field{labelalpha}{GTF}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://gtfs.org/about}}
+      \field{note}{Acesso em: 01 novembro 2025}
+      \field{title}{About the GTFS}
+    \endentry
+    \entry{previsao_jd_angela}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5e40e6958668c0db7bd5c09aaa9e392}{%
+           family={{MetrôCPTM}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a5e40e6958668c0db7bd5c09aaa9e392}
+      \strng{fullhash}{a5e40e6958668c0db7bd5c09aaa9e392}
+      \strng{fullhashraw}{a5e40e6958668c0db7bd5c09aaa9e392}
+      \strng{bibnamehash}{a5e40e6958668c0db7bd5c09aaa9e392}
+      \strng{authorbibnamehash}{a5e40e6958668c0db7bd5c09aaa9e392}
+      \strng{authornamehash}{a5e40e6958668c0db7bd5c09aaa9e392}
+      \strng{authorfullhash}{a5e40e6958668c0db7bd5c09aaa9e392}
+      \strng{authorfullhashraw}{a5e40e6958668c0db7bd5c09aaa9e392}
+      \field{labelalpha}{Met24}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.metrocptm.com.br/veja-como-sera-a-estacao-jardim-angela-da-linha-5-lilas}}
+      \field{note}{Acesso em: 18 outubro 2025}
+      \field{title}{Veja como serã a Estacão Jardim Ângela da Linha 5-Lilás}
+      \field{year}{2024}
+    \endentry
+    \entry{MorettinSinger2019}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=70f26ddd0d107049a3c02a4d23349e46}{%
+           family={Morettin},
+           familyi={M\bibinitperiod},
+           given={Pedro\bibnamedelima Alberto},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f6bf61851e102a12ff5b4ba2c03bdaa}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Julio\bibnamedelimb da\bibnamedelima Motta},
+           giveni={J\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Departamento de Estatística da USP}%
+      }
+      \strng{namehash}{b5ef7a931398f9a298e9cc6ee11d6232}
+      \strng{fullhash}{b5ef7a931398f9a298e9cc6ee11d6232}
+      \strng{fullhashraw}{b5ef7a931398f9a298e9cc6ee11d6232}
+      \strng{bibnamehash}{b5ef7a931398f9a298e9cc6ee11d6232}
+      \strng{authorbibnamehash}{b5ef7a931398f9a298e9cc6ee11d6232}
+      \strng{authornamehash}{b5ef7a931398f9a298e9cc6ee11d6232}
+      \strng{authorfullhash}{b5ef7a931398f9a298e9cc6ee11d6232}
+      \strng{authorfullhashraw}{b5ef7a931398f9a298e9cc6ee11d6232}
+      \field{labelalpha}{MS19}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Available at: \url{https://www.ime.usp.br/~jmsinger/MAE5755/cdados2019ago06.pdf}}
+      \field{title}{Introdução à Ciência de Dados: fundamentos e aplicações}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.ime.usp.br/~jmsinger/MAE5755/cdados2019ago06.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ime.usp.br/~jmsinger/MAE5755/cdados2019ago06.pdf
+      \endverb
+    \endentry
+    \entry{portal_transito2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f12dee130778bf1902fde12b0a89036d}{%
+           family={{Portal do Trânsito, Mobilidade \& Sustentabilidade}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f12dee130778bf1902fde12b0a89036d}
+      \strng{fullhash}{f12dee130778bf1902fde12b0a89036d}
+      \strng{fullhashraw}{f12dee130778bf1902fde12b0a89036d}
+      \strng{bibnamehash}{f12dee130778bf1902fde12b0a89036d}
+      \strng{authorbibnamehash}{f12dee130778bf1902fde12b0a89036d}
+      \strng{authornamehash}{f12dee130778bf1902fde12b0a89036d}
+      \strng{authorfullhash}{f12dee130778bf1902fde12b0a89036d}
+      \strng{authorfullhashraw}{f12dee130778bf1902fde12b0a89036d}
+      \field{labelalpha}{Por24}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.portaldotransito.com.br/noticias/mobilidade-e-tecnologia/transporte-coletivo/qual-e-o-limite-de-passageiros-em-onibus-urbanos/}}
+      \field{note}{Acesso em: 3 agosto 2025}
+      \field{title}{Qual é o limite de passageiros em ônibus urbanos?}
+      \field{year}{2024}
+    \endentry
+    \entry{prefeituraSPRegioes2008}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3172d446c78787d7948fd1e9b3b965fd}{%
+           family={{Prefeitura do Município de São Paulo}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{fullhash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{fullhashraw}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{bibnamehash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{authorbibnamehash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{authornamehash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{authorfullhash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{authorfullhashraw}{3172d446c78787d7948fd1e9b3b965fd}
+      \field{extraname}{1}
+      \field{labelalpha}{Pre08}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.prefeitura.sp.gov.br/cidade/secretarias/subprefeituras/upload/pinheiros/11_regioes.pdf}}
+      \field{note}{Acesso em: 1 jun. 2025}
+      \field{title}{{Regiões, Subprefeituras e Distritos Municipais}}
+      \field{year}{2008}
+    \endentry
+    \entry{prefeituraSPPDE}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3172d446c78787d7948fd1e9b3b965fd}{%
+           family={{Prefeitura do Município de São Paulo}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{fullhash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{fullhashraw}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{bibnamehash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{authorbibnamehash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{authornamehash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{authorfullhash}{3172d446c78787d7948fd1e9b3b965fd}
+      \strng{authorfullhashraw}{3172d446c78787d7948fd1e9b3b965fd}
+      \field{extraname}{2}
+      \field{labelalpha}{Pre25}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 21 jun. 2025}
+      \field{title}{{GeoSampa Metadados}}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://metadados.geosampa.prefeitura.sp.gov.br/geonetwork/srv/por/catalog.search;jsessionid=D7C42FF7016A0E122DF0051F33224C41#/search?facet.q=topicCat%2Ftransportation&resultType=manager&sortBy=relevance&fast=index&_content_type=json&from=1&to=50
+      \endverb
+      \verb{url}
+      \verb https://metadados.geosampa.prefeitura.sp.gov.br/geonetwork/srv/por/catalog.search;jsessionid=D7C42FF7016A0E122DF0051F33224C41#/search?facet.q=topicCat%2Ftransportation&resultType=manager&sortBy=relevance&fast=index&_content_type=json&from=1&to=50
+      \endverb
+    \endentry
+    \entry{redenossa2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=65013b137096fc1862315c5a2a03c913}{%
+           family={{Rede Nossa São Paulo}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{65013b137096fc1862315c5a2a03c913}
+      \strng{fullhash}{65013b137096fc1862315c5a2a03c913}
+      \strng{fullhashraw}{65013b137096fc1862315c5a2a03c913}
+      \strng{bibnamehash}{65013b137096fc1862315c5a2a03c913}
+      \strng{authorbibnamehash}{65013b137096fc1862315c5a2a03c913}
+      \strng{authornamehash}{65013b137096fc1862315c5a2a03c913}
+      \strng{authorfullhash}{65013b137096fc1862315c5a2a03c913}
+      \strng{authorfullhashraw}{65013b137096fc1862315c5a2a03c913}
+      \field{labelalpha}{Red24}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.nossasaopaulo.org.br/2024/09/19/tempo-de-deslocamento-por-transporte-publico-aumenta-em-sao-paulo-e-chega-a-2h47-por-dia/}}
+      \field{note}{Acesso em: 10 maio 2025}
+      \field{title}{Tempo de deslocamento por transporte público aumenta em São Paulo e chega a 2h47 por dia}
+      \field{year}{2024}
+    \endentry
+    \entry{rodrigue2020geography}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e14b83838eb71945757f91a4de96a3b1}{%
+           family={Rodrigue},
+           familyi={R\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{e14b83838eb71945757f91a4de96a3b1}
+      \strng{fullhash}{e14b83838eb71945757f91a4de96a3b1}
+      \strng{fullhashraw}{e14b83838eb71945757f91a4de96a3b1}
+      \strng{bibnamehash}{e14b83838eb71945757f91a4de96a3b1}
+      \strng{authorbibnamehash}{e14b83838eb71945757f91a4de96a3b1}
+      \strng{authornamehash}{e14b83838eb71945757f91a4de96a3b1}
+      \strng{authorfullhash}{e14b83838eb71945757f91a4de96a3b1}
+      \strng{authorfullhashraw}{e14b83838eb71945757f91a4de96a3b1}
+      \field{labelalpha}{Rod20}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{isbn}{9780367364632}
+      \field{title}{The Geography of Transport Systems}
+      \field{year}{2020}
+    \endentry
+    \entry{schwartzman1975}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=114cae33d15b87f22dfc2df7a222968a}{%
+           family={Schwartzman},
+           familyi={S\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{114cae33d15b87f22dfc2df7a222968a}
+      \strng{fullhash}{114cae33d15b87f22dfc2df7a222968a}
+      \strng{fullhashraw}{114cae33d15b87f22dfc2df7a222968a}
+      \strng{bibnamehash}{114cae33d15b87f22dfc2df7a222968a}
+      \strng{authorbibnamehash}{114cae33d15b87f22dfc2df7a222968a}
+      \strng{authornamehash}{114cae33d15b87f22dfc2df7a222968a}
+      \strng{authorfullhash}{114cae33d15b87f22dfc2df7a222968a}
+      \strng{authorfullhashraw}{114cae33d15b87f22dfc2df7a222968a}
+      \field{labelalpha}{Sch75}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Versão revista do trabalho apresentado ao Seminário sobre Políticas Públicas realizado pela Escola Brasileira de Administração Pública da Fundação Getúlio Vargas no Rio de Janeiro, maio de 1975. A responsabilidade pelos conceitos emitidos é do autor. Publicado em Dados 12, 1976, pp. 5 a 21.}
+      \field{title}{Da Responsabilidade Pública dos Governantes: Paradoxos e Perspectivas}
+      \field{urlday}{29}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{1975}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.schwartzman.org.br/simon/respons.htm
+      \endverb
+      \verb{url}
+      \verb https://www.schwartzman.org.br/simon/respons.htm
+      \endverb
+    \endentry
+    \entry{tcc:Danilo}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc9960098e51e93ad386266fc0bd4600}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Danilo},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de São Paulo}%
+      }
+      \strng{namehash}{dc9960098e51e93ad386266fc0bd4600}
+      \strng{fullhash}{dc9960098e51e93ad386266fc0bd4600}
+      \strng{fullhashraw}{dc9960098e51e93ad386266fc0bd4600}
+      \strng{bibnamehash}{dc9960098e51e93ad386266fc0bd4600}
+      \strng{authorbibnamehash}{dc9960098e51e93ad386266fc0bd4600}
+      \strng{authornamehash}{dc9960098e51e93ad386266fc0bd4600}
+      \strng{authorfullhash}{dc9960098e51e93ad386266fc0bd4600}
+      \strng{authorfullhashraw}{dc9960098e51e93ad386266fc0bd4600}
+      \field{labelalpha}{Sil18}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{09}
+      \field{title}{Modelagem do Transporte Urbano Através de Grafos}
+      \field{year}{2018}
+    \endentry
+    \entry{tese:sandro}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2ad5db3b56fee708484096f8ad9561fb}{%
+           family={Sousa},
+           familyi={S\bibinitperiod},
+           given={Sandro},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de São Paulo}%
+      }
+      \strng{namehash}{2ad5db3b56fee708484096f8ad9561fb}
+      \strng{fullhash}{2ad5db3b56fee708484096f8ad9561fb}
+      \strng{fullhashraw}{2ad5db3b56fee708484096f8ad9561fb}
+      \strng{bibnamehash}{2ad5db3b56fee708484096f8ad9561fb}
+      \strng{authorbibnamehash}{2ad5db3b56fee708484096f8ad9561fb}
+      \strng{authornamehash}{2ad5db3b56fee708484096f8ad9561fb}
+      \strng{authorfullhash}{2ad5db3b56fee708484096f8ad9561fb}
+      \strng{authorfullhashraw}{2ad5db3b56fee708484096f8ad9561fb}
+      \field{labelalpha}{Sou16}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{08}
+      \field{title}{Estudo das propriedades e robustez da rede de transporte público de São Paulo}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.13140/RG.2.1.3681.4320/2
+      \endverb
+    \endentry
+    \entry{sptrans2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6f25a0599e7d9b5e4b0f7942a636ed9e}{%
+           family={{SPTrans - São Paulo Transporte S.A.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f25a0599e7d9b5e4b0f7942a636ed9e}
+      \strng{fullhash}{6f25a0599e7d9b5e4b0f7942a636ed9e}
+      \strng{fullhashraw}{6f25a0599e7d9b5e4b0f7942a636ed9e}
+      \strng{bibnamehash}{6f25a0599e7d9b5e4b0f7942a636ed9e}
+      \strng{authorbibnamehash}{6f25a0599e7d9b5e4b0f7942a636ed9e}
+      \strng{authornamehash}{6f25a0599e7d9b5e4b0f7942a636ed9e}
+      \strng{authorfullhash}{6f25a0599e7d9b5e4b0f7942a636ed9e}
+      \strng{authorfullhashraw}{6f25a0599e7d9b5e4b0f7942a636ed9e}
+      \field{labelalpha}{SPT24}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.sptrans.com.br/relatorio-integrado-da-administracao-2024/}}
+      \field{note}{Acesso em: 10 maio 2025}
+      \field{title}{Relatório Integrado da Administração 2024}
+      \field{year}{2024}
+    \endentry
+    \entry{SUGUIY2020938}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=14148f7e96ca47145f7fd331f5dfea8e}{%
+           family={Suguiy},
+           familyi={S\bibinitperiod},
+           given={Takao},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3291d13d8ccdffa2ae284fdeada7f60}{%
+           family={{Fabius Henriques de Carvalho}},
+           familyi={F\bibinitperiod},
+           given={Marcius},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cb913e25925880c9330e2748e9f3e0e}{%
+           family={{Augusto Valente Ferreira}},
+           familyi={A\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fb9d24dce1fc7effd6b1ac07df710633}
+      \strng{fullhash}{09b937102724d3e6427784b56d05c7ad}
+      \strng{fullhashraw}{09b937102724d3e6427784b56d05c7ad}
+      \strng{bibnamehash}{09b937102724d3e6427784b56d05c7ad}
+      \strng{authorbibnamehash}{09b937102724d3e6427784b56d05c7ad}
+      \strng{authornamehash}{fb9d24dce1fc7effd6b1ac07df710633}
+      \strng{authorfullhash}{09b937102724d3e6427784b56d05c7ad}
+      \strng{authorfullhashraw}{09b937102724d3e6427784b56d05c7ad}
+      \field{labelalpha}{SFA20}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Considering that travel times are generally high in large cities in developing countries such as Brazil, this study proposes a methodology based on data envelopment analysis (DEA) and the Malmquist Index to evaluate urban public transportation systems that combine two conflicting perspectives: the economic, represented by an efficiency index, and the social, represented by a satisfaction index. The performance of urban public transportation systems is measured by an efficiency/satisfaction ratio (ESR), which can aid public municipal authorities (PMAs) to develop better transport strategies and improve long-term investment planning. ESR < 1 indicates that the transport policy favors the passengers and ESR = 1 represents an equilibrium. The application of the methodology to 17 Brazilian municipalities over six years reveals how each municipality is located in the efficiency x satisfaction space, and how the transport authorities could balance economic and social indices. Our methodology integrates a set of effective analysis tools that can assist PMAs in the important task of balancing between interests of service providers and passengers.}
+      \field{issn}{2213-624X}
+      \field{journaltitle}{Case Studies on Transport Policy}
+      \field{number}{3}
+      \field{title}{Efficiency versus satisfaction in public transport: Practices in Brazilian cities}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{938\bibrangedash 945}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cstp.2020.05.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2213624X17303231
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2213624X17303231
+      \endverb
+      \keyw{Urban public transport,Performance Evaluation,Data envelopment Analysis,Efficiency and Satisfaction Indices}
+    \endentry
+    \entry{tukey1977exploratory}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9edab5dbc1987bcb98d6de058f00fc47}{%
+           family={Tukey},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9edab5dbc1987bcb98d6de058f00fc47}
+      \strng{fullhash}{9edab5dbc1987bcb98d6de058f00fc47}
+      \strng{fullhashraw}{9edab5dbc1987bcb98d6de058f00fc47}
+      \strng{bibnamehash}{9edab5dbc1987bcb98d6de058f00fc47}
+      \strng{authorbibnamehash}{9edab5dbc1987bcb98d6de058f00fc47}
+      \strng{authornamehash}{9edab5dbc1987bcb98d6de058f00fc47}
+      \strng{authorfullhash}{9edab5dbc1987bcb98d6de058f00fc47}
+      \strng{authorfullhashraw}{9edab5dbc1987bcb98d6de058f00fc47}
+      \field{labelalpha}{Tuk77}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reading/Addison-Wesley}
+      \field{title}{Exploratory data analysis}
+      \field{year}{1977}
+    \endentry
+    \entry{tcc:Andre}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=167d9a8d7b1f4106378d9336fdcb65c4}{%
+           family={Yai},
+           familyi={Y\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de São Paulo}%
+      }
+      \strng{namehash}{167d9a8d7b1f4106378d9336fdcb65c4}
+      \strng{fullhash}{167d9a8d7b1f4106378d9336fdcb65c4}
+      \strng{fullhashraw}{167d9a8d7b1f4106378d9336fdcb65c4}
+      \strng{bibnamehash}{167d9a8d7b1f4106378d9336fdcb65c4}
+      \strng{authorbibnamehash}{167d9a8d7b1f4106378d9336fdcb65c4}
+      \strng{authornamehash}{167d9a8d7b1f4106378d9336fdcb65c4}
+      \strng{authorfullhash}{167d9a8d7b1f4106378d9336fdcb65c4}
+      \strng{authorfullhashraw}{167d9a8d7b1f4106378d9336fdcb65c4}
+      \field{labelalpha}{Yai16}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Análise e visualização de dados do transporte público de ônibus da cidade de São Paulo}
+      \field{year}{2016}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

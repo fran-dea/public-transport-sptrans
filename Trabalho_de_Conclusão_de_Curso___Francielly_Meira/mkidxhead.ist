@@ -1,0 +1,11 @@
+delim_0 ", \\hyperpage{"
+delim_1 ", \\hyperpage{"
+delim_2 ", \\hyperpage{"
+delim_n "}, \\hyperpage{"
+delim_t "}"
+encap_prefix "}\\"
+encap_infix "{\\hyperpage{"
+encap_suffix "}"
+headings_flag 1
+heading_prefix "{\\bfseries "
+heading_suffix "}\\nopagebreak\n"

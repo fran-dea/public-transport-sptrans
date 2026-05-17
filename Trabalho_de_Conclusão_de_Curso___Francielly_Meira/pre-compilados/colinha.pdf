@@ -1,0 +1,1568 @@
+%PDF-1.7
+%ÌÕÁÔÅØĞÄÆ
+9 0 obj
+<< /Type /Metadata /Subtype /XML  /Length 69194 >>      
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+                     xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+                     xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+                     xmlns:dc="http://purl.org/dc/elements/1.1/"
+                     xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+                     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+                     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+                     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+                     xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/"
+                     xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/"
+                     xmlns:pdfx="http://ns.adobe.com/pdfx/1.3/"
+                     xmlns:prism="http://prismstandard.org/namespaces/basic/3.0/"
+                     xmlns:jav="http://www.niso.org/schemas/jav/1.0/"
+                     xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+                     xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#"
+                     xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+                     xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/"
+                     xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#"
+                     xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#"
+                     xmlns:pdfaType="http://www.aiim.org/pdfa/ns/type#"
+                     xmlns:pdfaField="http://www.aiim.org/pdfa/ns/field#">
+      <pdfaExtension:schemas>
+        <rdf:Bag>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>Adobe PDF Schema</pdfaSchema:schema>
+            <pdfaSchema:prefix>pdf</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://ns.adobe.com/pdf/1.3/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>Trapped</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Indication if the document has been modified to include trapping information</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>XMP Media Management Schema</pdfaSchema:schema>
+            <pdfaSchema:prefix>xmpMM</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://ns.adobe.com/xap/1.0/mm/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>DocumentID</pdfaProperty:name>
+                  <pdfaProperty:valueType>URI</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>UUID based identifier for all versions and renditions of a document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>InstanceID</pdfaProperty:name>
+                  <pdfaProperty:valueType>URI</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>UUID based identifier for specific incarnation of a document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>VersionID</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Document version identifier</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>RenditionClass</pdfaProperty:name>
+                  <pdfaProperty:valueType>RenditionClass</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>The manner in which a document is rendered</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <pdfaSchema:schema>PRISM Basic Metadata</pdfaSchema:schema>
+            <pdfaSchema:prefix>prism</pdfaSchema:prefix>
+            <pdfaSchema:namespaceURI>http://prismstandard.org/namespaces/basic/3.0/</pdfaSchema:namespaceURI>
+            <pdfaSchema:property>
+              <rdf:Seq>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>complianceProfile</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>PRISM specification compliance profile to which this document adheres</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>publicationName</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication name</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>aggregationType</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication type</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>bookEdition</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Edition of the book in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>volume</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication volume number</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>number</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Publication issue number within a volume</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>pageRange</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Page range for the document within the print version of its publication</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>issn</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>ISSN for the printed publication in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>eIssn</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>ISSN for the electronic publication in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>isbn</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>ISBN for the publication in which the document was published</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>doi</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Digital Object Identifier for the document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>url</pdfaProperty:name>
+                  <pdfaProperty:valueType>URL</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>URL at which the document can be found</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>byteCount</pdfaProperty:name>
+                  <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Approximate file size in octets</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>pageCount</pdfaProperty:name>
+                  <pdfaProperty:valueType>Integer</pdfaProperty:valueType>
+                  <pdfaProperty:category>internal</pdfaProperty:category>
+                  <pdfaProperty:description>Number of pages in the print version of the document</pdfaProperty:description>
+                </rdf:li>
+                <rdf:li rdf:parseType="Resource">
+                  <pdfaProperty:name>subtitle</pdfaProperty:name>
+                  <pdfaProperty:valueType>Text</pdfaProperty:valueType>
+                  <pdfaProperty:category>external</pdfaProperty:category>
+                  <pdfaProperty:description>Document's subtitle</pdfaProperty:description>
+                </rdf:li>
+              </rdf:Seq>
+            </pdfaSchema:property>
+          </rdf:li>
+        </rdf:Bag>
+      </pdfaExtension:schemas>
+      <pdf:Producer>LuaHBTeX, Version 1.16.0 (TeX Live 2023)</pdf:Producer>
+      <pdf:Keywords></pdf:Keywords>
+      <pdf:PDFVersion>1.7</pdf:PDFVersion>
+      <dc:format>application/pdf</dc:format>
+      <dc:date>
+        <rdf:Seq>
+          <rdf:li>2023-11-29T16:12:53-03:00</rdf:li>
+        </rdf:Seq>
+      </dc:date>
+      <dc:type>
+        <rdf:Bag>
+          <rdf:li>Text</rdf:li>
+        </rdf:Bag>
+      </dc:type>
+      <dc:source>colinha.tex</dc:source>
+      <dc:language>
+        <rdf:Bag>
+          <rdf:li>pt</rdf:li>
+        </rdf:Bag>
+      </dc:language>
+      <xmp:CreateDate>2023-11-29T16:12:53-03:00</xmp:CreateDate>
+      <xmp:ModifyDate>2023-11-29T16:12:53-03:00</xmp:ModifyDate>
+      <xmp:MetadataDate>2023-11-29T16:12:53-03:00</xmp:MetadataDate>
+      <xmp:CreatorTool>LaTeX with hyperref</xmp:CreatorTool>
+      <xmpMM:DocumentID>uuid:4c4c9005-fd75-4fd1-b33e-fd182bbb1d13</xmpMM:DocumentID>
+      <xmpMM:InstanceID>uuid:59595f2b-b1d7-4f2b-a7f7-f7ae4ce462b1</xmpMM:InstanceID>
+      <xmpMM:VersionID>1</xmpMM:VersionID>
+      <xmpMM:RenditionClass>default</xmpMM:RenditionClass>
+      <prism:complianceProfile>three</prism:complianceProfile>
+      <prism:byteCount>108715</prism:byteCount>
+      <prism:pageCount>1</prism:pageCount>
+      <xmpTPg:Fonts>
+        <rdf:Bag>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Bold</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Bold</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-BoldItalic</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-BoldItalic</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-bolditalic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Bold</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Bold</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Italic</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Italic</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRomanSlant10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman Slanted 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRomanSlant10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmromanslant10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRomanCaps10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman Caps 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRomanCaps10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmromancaps10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Bold</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Bold</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Italic</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Italic</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRomanCaps10-Oblique</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman Caps 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRomanCaps10-Oblique</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmromancaps10-oblique.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRomanSlant10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman Slanted 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRomanSlant10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmromanslant10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-BoldItalic</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-BoldItalic</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-bolditalic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>LMRoman10-Regular</stFnt:fontFace>
+            <stFnt:fontFamily>LM Roman 10</stFnt:fontFamily>
+            <stFnt:fontName>LMRoman10-Regular</stFnt:fontName>
+            <stFnt:versionString>2.004;PS 2.004;hotconv 1.0.49;makeotf.lib2.0.14853</stFnt:versionString>
+            <stFnt:fontFileName>lmroman10-regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>FourierOrns Regular</stFnt:fontFace>
+            <stFnt:fontFamily>FourierOrns</stFnt:fontFamily>
+            <stFnt:fontName>FourierOrns-Regular</stFnt:fontName>
+            <stFnt:versionString>2.3</stFnt:versionString>
+            <stFnt:fontFileName>FourierOrns-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>FourierOrns Regular</stFnt:fontFace>
+            <stFnt:fontFamily>FourierOrns</stFnt:fontFamily>
+            <stFnt:fontName>FourierOrns-Regular</stFnt:fontName>
+            <stFnt:versionString>2.3</stFnt:versionString>
+            <stFnt:fontFileName>FourierOrns-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>ectt1000</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Regular</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Regular</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Regular</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Bold</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-It</stFnt:fontName>
+            <stFnt:versionString>1.050;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-RegularIt.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Bold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-BoldIt</stFnt:fontName>
+            <stFnt:versionString>1.050;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-BoldIt.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Medium</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Medium</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Medium</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Medium.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Medium</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Medium</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Medium</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Medium.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Medium</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Medium</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Medium</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Medium.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Medium Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Medium</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-MediumIt</stFnt:fontName>
+            <stFnt:versionString>1.050;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-MediumIt.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Light</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Light</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Light</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Light.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Light</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Light</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Light</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Light.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Light</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Light</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Light</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Light.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Semibold</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Semibold</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Semibold</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Semibold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Light Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Light</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-LightIt</stFnt:fontName>
+            <stFnt:versionString>1.050;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-LightIt.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Semibold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Semibold</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-SemiboldIt</stFnt:fontName>
+            <stFnt:versionString>1.050;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-SemiboldIt.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro ExtraLight</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro ExtraLight</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-ExtraLight</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-ExtraLight.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro ExtraLight</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro ExtraLight</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-ExtraLight</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-ExtraLight.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro ExtraLight</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro ExtraLight</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-ExtraLight</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-ExtraLight.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Black</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Black</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Black</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Black.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro ExtraLight Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro ExtraLight</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-ExtraLightIt</stFnt:fontName>
+            <stFnt:versionString>1.050;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-ExtraLightIt.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro Black Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro Black</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-BlackIt</stFnt:fontName>
+            <stFnt:versionString>1.050;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-BlackIt.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Bold</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Italic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Bold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-BoldItalic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-BoldItalic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Bold</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Italic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Bold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-BoldItalic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-BoldItalic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Semibold</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif Semibold</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Semibold</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Semibold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Semibold Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif Semibold Italic</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-SemiboldItalic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-SemiboldItalic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Bold</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Italic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Bold</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Italic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi8</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi6</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Keyboard Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Keyboard</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusKeyboard-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusKeyboard-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Keyboard Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Keyboard</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusKeyboard-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusKeyboard-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Keyboard Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Keyboard</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusKeyboard-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusKeyboard-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Display Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif Display</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerifDisplay-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerifDisplay-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Display Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif Display</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerifDisplay-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerifDisplay-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Display Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif Display</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerifDisplay-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerifDisplay-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Initials Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif Initials</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerifInitials-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerifInitials-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Initials Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif Initials</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerifInitials-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerifInitials-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Initials Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif Initials</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerifInitials-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerifInitials-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Italic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Italic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Bold</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi12</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>cmmi7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Math Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Math</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusMath-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusMath-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msam7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm10</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontName>msbm7</stFnt:fontName>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Bold</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Bold</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Bold</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Bold.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Sans Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Sans</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSans-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSans-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Regular</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Regular</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Italic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Italic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Italic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Libertinus Serif Italic</stFnt:fontFace>
+            <stFnt:fontFamily>Libertinus Serif</stFnt:fontFamily>
+            <stFnt:fontName>LibertinusSerif-Italic</stFnt:fontName>
+            <stFnt:versionString>7.040;RELEASE</stFnt:versionString>
+            <stFnt:fontFileName>LibertinusSerif-Italic.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+          <rdf:li rdf:parseType="Resource">
+            <stFnt:fontFace>Source Code Pro</stFnt:fontFace>
+            <stFnt:fontFamily>Source Code Pro</stFnt:fontFamily>
+            <stFnt:fontName>SourceCodePro-Regular</stFnt:fontName>
+            <stFnt:versionString>2.030;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220</stFnt:versionString>
+            <stFnt:fontFileName>SourceCodePro-Regular.otf</stFnt:fontFileName>
+            <stFnt:fontType>opentype</stFnt:fontType>
+          </rdf:li>
+        </rdf:Bag>
+      </xmpTPg:Fonts>
+      <xmpTPg:NPages>1</xmpTPg:NPages>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+                                                               
+<?xpacket end="w"?>
+
+endstream
+endobj
+11 0 obj
+<< /Filter /FlateDecode /Length 4093 >>       
+stream
+xÚÕ¹ì¸1_Ñ?0\²ÈâĞLkØÌöËlØ‰7°ÿ¾‹÷!QRÏ›µá Ñ‡¤b]¬›Ío¿ñÛÏßøğşÏo‚ŞùMÜ:fPŞPKæŞşòÛ·_ÿLWşJ¯_nœ9§oÿ÷şF÷Æ¥¡Ïÿ¸ıéÛ¾½}ÿöÓ‡ú&“JÃíûß
+\)-“Üİ0À¿}ÿíöë+ç 8GÎ¹zĞk¡×½½àşÈé¥é_şs¸C¥»Á?YîDGşûŸ¿ÿ’ğqÌiĞªÅGÃŒ"2©hÚ¡BY Pb BbxªŞDë±5ÓJØº¿ËifµA¹pÓú½	2ñciÀ8$À`=7”È¬jDbIÖ­wÀ×ğ™ú¾ ·o:¾/’~_è•™¬İ|	ö†Â2eD¡’Ä…ŞIĞïwá…'ùı…”å5^]Òİ¨ã^apÌÜ®Ä5C¢¸YÉ«‰6¬äÒór\_û;ã]w¡_VSN‘útt©5)æ{¢iCçıÅY¿.ww!üª6İ)“â›ğkø~ubÿ"Ò}y“”«Eíã½~ñe²6Ú ´aÊÕ$fK"Wé]¬ôYùÏÅO82Ø‰_$vË„ì{$,Xƒ51dÊv2&Ât\WÙpDĞÛ:ËùĞ Õ¡ª"‡Ík\§H”'¸OÁ'«èFøAVò«×â@6W­õ»¬+'Ur3q‡İaëçpÍ=»†!uusÚ¾|=­™’î½àoq$Ø<¸)qA[ëSş	xm¬=Å?¼õÉzètµ¸Ïu°Ñ1~$¾¬­!“`è%;û°C·"	¶ÛkÆ?s	–‘'Ü>šÏ:Q-S¸Íe£JH¹b¶<ŠN½CÃs%2U-0xÓô —Ş‰ÀkïÃŞ¼»+ûı—7^ş·e¹+—#ãæàªOSöŞä•½<¼& ¹Û,–·D£Î®,¨âUtñ
+Pè”0YÍjf4«%ŞšÄ[•xU±¬˜ã¥F½Ú~Oî*:Ç3ÒÅ?ZliÚ“£ÉiĞ•dF1‚”Ÿ´u­A_D®\Ù‰™¼+¨g¼9áKZ<¬Ì±„‹´¢XÓŠ´²¤5„ÌW9>GŸdÑI¥ª	 Àl-TöîE0&>q™:
+4¥×õ{U¾_£0Ü»gû=Ò0Ù3Í™!ÜÉÁ•×l•œ®”ÉŒ9[™øÓ‡Å="(’2Bôk™ÅRhæ×2øqa[d)Z–;lµiƒÎÁ$½ovS±TZ·¶I6Áİ#Q¦/P&(¤Ü˜yÚv)ÊOQŒã³ªÕÒoPIUH¦D¿ÜLªËA”æ7*¯¡fØ6!¢²#sø¤!kzÄ*›„Ü
+‘i
+¨zr¶H3ÛzşÈ?YÚRâämsÿÔ.®ú3Aö|nñg¦dZ.$cw/è˜„]¾…¶”9v¡’¢/rzİæ$`']B<¸ŒâÍ¶¡QJéCÖ)Ü&OŞ§nŠù¶3X
+¯ù¸lM¾J¼ÕÕ£í…uáşT1 ór&«N{c(„©èİuö¡Û];Ê5fsFIécØ-1ØÏU3±R’a°ÆµQáƒÃ£‘YëŞ!=Ÿòİ^Àƒ›ÂÆâ°á Áë4( ˜À^ZRçÊÄ™³=Hg(yUWkP%›*ÂÚZ¬!çày´ÑB…áñ‘ç-_şøóN¤V|°c(†Uv±Sƒôšˆ¼Ö¢ZÖÈáZàrË‘‡JObÌÌxÊéµ‡úA€ıMM¾Ärbz!X§|–É!“Ö~‰­1’ÉÖ<¥j¹´’6T¥Í.Q–QFQ™4¹Z¡×÷	:Ê1p°—>AM1•Òæÿ×ÎP„â2k;wMWSŸVyÈdÉuEUá\)ªòe=ŠÅ¢j†wV\u´ˆ±ºªc	-8p+©¹¢ê¿;~êÔ/DÀ…`_·”¥©k ß
+§jMòEh™=—¯+j<ß”"&Å†²3×¼ÀÎ÷yŒ•´ˆteÇ  bŸËBñì`ê•ıÚƒÇ~gf–RğÉœ;Ô³OsÑˆ]ˆ_Ã¸B€VŒÛ«&-RPi3&Ó¹kÖ©È˜ 3™Åû¼FÀ²äQ3Tj¡*ßY•³<·4Ï5=£ôÜŒaŠöº9øWğ¨,&4ƒ¡Yp&&>AY»`ªÅÅNÙ	õ¼ìDWÍk	x¶)NãÅÀ»\9¢Ÿyğ$ïµÊ:7ˆÚÇ}¸¸Gë™9ô9%õëÀ¸pE>Q,ÚŠbüPyÌ JL¢øˆYS¤åL:}¦–så˜ÁEz·ú9Ì=±¶<{Ù.H¥XMrã6Ãi6ö‰i¦@¡ÁS\Gö¼˜—8yfòşyéê©—ã³’~ÔÃãAHËz|i[ä#gS9âJFjSíMÚCóÅÔ@‹?Úº_è…ÔÔ,Ÿ‡¹üJ– *Â%Ã¹PàOü§‰]Ë2Õï1”@^À†.uOÙÔÁ–A«Âg_aõ]l—*ıÄB
+Å[‚âK&ó™¶fÒJšÙÁë}}`<Û ŠÙŞymÄøù`<êˆúwµW}7_²Ğs{‘@„ù‹s{òÊ½î Q²pÏëõ­˜Ì™°¾Ô¥6™Tê„0GÄÉß­‹{@VBçÊQbZ“Â•ÊízX"•V1 L¨ÇÃ¬Ç¥déëFìa‡ıq‰¡SVŠßÕ‚ß…Yb	MØöÊŒÏ‰ÜW/¹Åë"ïÉØM—;*&¤™ËıÄĞNõ…¾â±ØÀ0mÔfñßWÁ3Æk+˜£H˜~^ÁJãÍ}FÁhHf%£$j%ö‚’5§b‹Ñi[{ËP™RõıY%A!îë`Å‰
+:f)–ş]5ĞqF€ú%ÏPqAá¡ğôÚó¿2r×F®’úùJd	
+xØ÷	“vï9†¹—ì”KCk3,6xh•k’T…²Ï³ôQZÇ(Tpú‘ì1ä£z xNÃi&©%ÓÌõpç‰d_Tõe]©ï¬¹mŞ¡•ll>È€Îk ×Ä8¯‰""!ªı½j¢¨‘q‡cMô'Kƒûú¨¼K|½ªó¨)
+¦|…£­ße0Î±÷L;VïX7²º€â†Qú¶™VíÅ¡4q´Õó„âJàì¡jœßH¦Ãm­”¯ÅîÛG¶q2u§ı€héNë¬|å}i.I+ğw±ˆåä/gÅª¦¡®ìO#8¥;n\ğ‚Å0Â×uqU9K×°<ÇÍç¨;â8wyK(Ìf
+;õDÉqÓôZø]åØÏµÅo~n;åÇy¦çÁİk!QAˆ¬áÕ¾6c†¡ì™â˜‹1:Ë.P«¶$eWeøñ9d0SKpåĞ€¨ñ[?%Sæ×&$&²Ú’êã0ü CÈ¬¸íÑà®]¬DyJ@WÒ¹»ñ“¢“QŠI#"…dĞ'0ãÓiôêº0|ĞxQ0±Põâ"òš4aX½u“-¹g\myÛU(¥±"+hZÏê¦Ğäì*C GU—ª†íÕ4ÓmÑGk°éÛª'C^ì€¼½İ_”o„O"œD˜LìŠáZB |Šn.?õøslã’R_ù°¤áã,Ñ&
+Ç~¬9”'w´uó®Mt§š”LÁˆ$÷=:ÎyúhøÁoùÃSLñÉ‘SµbúNd0KIrtÃRºc¯¥ClGÈ£ºÊãë0")E4Ú„d©˜SrÍ†Ñ¢—‚MŠ.(Ğ®Fm°!Q Šqu~0Ù•ëÒi¿u}”._7ñå#»%ğ°5
+¤Æp:Á•„Îgzik3Œ9ˆWé‚@Î;—8Ïfø…•úº®¨¿™a>ƒÿZU‰#Oî 2óM¡fë]‹ñLÔ´CñUJØm`©yñèª‰.æf’­í¯cHWƒ£”wø3’¢~ã¾N]ı‘ŸÒm¿êş«é¾*Ş}%õí¾®[Íõ8øìÏ¹¹O›¾ãÍçã5~›¢§ğÏl
+g
+4öïÚ>BÊXêaÁ¾÷PÏÂo´DÖFÍ WæaEgFvqË ñŒ]Í&¤,Mí.©R“'µHés2ùá)³ò ‹Ü[Âîû¼x%öÀŸR Mo÷`ûI£võ¥B|‚q¥´ñhú’ï-ÅìUÀ„‡•SĞwŞ+Á@¹‹8ïágÂïy¹;‡¤½óGµùÚ™ š$˜¦±ÕxWå}6z
+mï¦ÙólöKwh… *Ÿ¨c¡Í‰İ½ˆu2’ª•¡U¸\šIˆ.3DTLùÂÑ!|’1~x¢†^²ÎÅ üG8ñ‰c­|[\Œhaã•tâÓ’ôdISÅyM6i=Ôs ¼=EbCß|§\³7oÚµ$Ìsæn+  iwiİ|x¤JG:¿Ïêm;÷Ë{ª„¢œø‹5E_OT©X¦6Në‰@é’qÛ‰“µ=@zZıF2>é •­m†•·6ò8CUKÍpìJ8Ş-¿ö§ÍK£ãŒm5}QB’A^DÚ©+Èá[5n¸­·pz—§‘I9©tA6À¤ÁğçIÒ‚ áío=E‚°V]‰µLKÑ|+ù¿#0#Üj—p`)¹ùAä2Âğ€"KAœÉ¨äï§›ÑŸ
+ØÀ5ÜAN¿ÓëAÆÃ¿ëôÛêßO)#ëzë=àÊ¶‡¨f”u²š¥½e@#`Ø8ô|bºüÊ:şRN;˜y–Ü®9æ°ğéÛó]“°gØxîæ0ZÙ‚I•ˆ)PÊZ9	à[¶D:øöAˆ_â·x"lüË—ğ§Ì9±q
+oXî€Øí´¯)<$/·´¸%[èÚYÁ ²¸Ú,rm/“¸-ÙÙÀNlO§pBı õ~2ÁÏ`õŸ[_£IöÖ„P¼=ÎÆÃfÃæßZ
+^v3™şË 	¹ŠŸo|ûñß.\¸£<ÜnF›ÒIR‹Ò£:“ÚA—Ğµ¦-i˜èŸ£·=¦7NN±ÓW±ÓŸÆnçØGÍ˜íÈJ¿XwXÃbÑNßB/Ç”W~a¿UÓ¶Î–;çÏ>êş²#KSh{ˆI¸á“æÌeÆ¤;¡V0	¦gé€£[ò©NaJ[˜,Ì•ï8ÿ—ƒrgëŞÂ/ûkïLdÅ»?ÚukÉ5\{ÄiÏI;m‡#OMĞ¤ô}r)@‘K“-ºRÃrÁBî\/İÖ´j(ØÌG‚Ã¸ÊÁ¿Ô&ÓÕ!)İm`qŒ#<—²ñæÿw²g«#äü€G>»ñÍ@ÓÎ–2äÔ(ò½6“£ô¸Ú|h'£§œGyö[´ııK]/w›šİ™z®«„ëKÓÔKe¨ª§	ÓÉÄĞUmÇ\¿ûqçzB
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Contents 11 0 R /Resources 10 0 R /MediaBox [ 0 0 841.89 595.276 ] /Parent 20 0 R /Annots 21 0 R >>
+endobj
+21 0 obj
+[ 7 0 R 8 0 R ]
+endobj
+7 0 obj
+<< /Type /Annot /Border[0 0 0]/H/I/C[0 1 1] /Rect [ 108.514 93.885 193.764 105.293 ]
+ /Subtype/Link/A<</Type/Action/S/URI/URI(http://tablesgenerator.com)>>
+ >>
+endobj
+8 0 obj
+<< /Type /Annot /Border[0 0 0]/H/I/C[0 1 1] /Rect [ 639.765 253.092 779.58 264.4 ]
+ /Subtype/Link/A<</Type/Action/S/URI/URI(http://detexify.kirelabs.org/classify.html)>>
+ >>
+endobj
+12 0 obj
+<< /D [ 6 0 R /XYZ 27.346 661.472 null ] >>
+endobj
+13 0 obj
+<< /D [ 6 0 R /XYZ 28.346 569.764 null ] >>
+endobj
+10 0 obj
+<<  /ColorSpace 3 0 R /Pattern 2 0 R /ExtGState 1 0 R  /Font << /F116 14 0 R /F69 15 0 R /F132 16 0 R /F85 17 0 R /F135 18 0 R /F139 19 0 R >> /ProcSet [ /PDF /Text ] >>
+endobj
+1 0 obj
+<<>>
+endobj
+2 0 obj
+<<>>
+endobj
+3 0 obj
+<<  /pgfprgb [/Pattern /DeviceRGB] >>
+endobj
+22 0 obj
+[ 7 [ 600 ] 28 [ 600 ] 32 [ 600 ] 36 [ 600 ] 39 [ 600 600 600 600 ] 45 [ 600 ] 47 [ 600 ] ]
+endobj
+24 0 obj
+<< /Filter /FlateDecode /Length 14 >>         
+stream
+xÚcd`àè|
+ x
+endstream
+endobj
+25 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 1161 >>       
+stream
+xÚ}TPU{w»«²R±w7êÉíæ(hÆ	NÊh3âÕ8%FWä ·â!w{'
+QGÉØ"Ëj4)F4Å1@Ìø!— p€Œé!ÖŒe9Î|×ŞÍĞ®5Mıã{3ßyïó}ß÷ù¼yŸùH§CAÄnÊzÆ¾.k¹MÜ.é¢Cx^2…ÂíÅy’zàI™—®aÌòB$Ç²™A2§}!pvÄ~÷ØŸíd,BDÖj,}è³HYèº™ÅêŞÉ,A´BÁWÆ._¿Q’%ñoœwzø<Ş+å9W´·ği1_àmå¯àòğVw(•ˆRWpğN7ïİ*ğÙn§º³yP)w;Vˆ/*‰/·»½’SğXÒÅ’rÉY¸ÕË¯LLJ|T+ïs·…O+.æ3ÕŸ)x©Lÿ©ªçù÷Ê­ÁíuzË‘2h´ñh1ŠGKÑ2ôJ@+´ˆP3Q(J£¬lÈ‹ÂD:±“hÖĞšL_ó“vuM@>yè„ß†´ıF¹äîÒH	(ò»aæuß&÷P‹Çğ<wuä|ô¸’lí0¼xÓ
+Q$ø(+²'­/€…J2’OGQ£ 0ÿšæ¯AÅ‡@‚ïG#ñT´o¨¨L~z8æêhÍÌœ®B3h]bÛá]Ÿ=52rüënî}Šõîµ’ìÎ |KÁÜgÀóW¯¶ÙÍÍ6òp{ÿ‘¦›GmÖZïÙ·	ØöÇÆsn˜l9‡zNã3ëéÜ¬¬Ò,“Â	k`Ù 1<	ƒ—´0é3\îol>Ã¹ºIqsnùFS\Ê9Ğ¼ÁÉ,U[W{ ~Ä®¹ylÄs–ã•x5ÌJ€8³OŞh˜ì±Çïåğê×}£]WLÊ{åäà ¯`Ş²†cH®À}ë¡Œb§›!Åp¢©ád‹»qËw©àh’NpÑ¾aùz€šV^î3t5RßÎ•õ‘•E®jÑ´Q8r‘“;ñGë!-RFcº÷¹Ûf•'õ¢oGL Æ	0†ôÙ«cîPg¿<ØpÌtüS·Ã¿LÀúlãØÁ4}« +ÃæÚö‚h>÷šëğK&›«ø‰{‡b¿© ­Ô¿w‡gP†ò3íU(õ!v0¬üL}×{²)`ºÒ¼y‡ÛBĞ£Ø`Ó0¦ÍìXª-?;‡{‹bOUO’ìÑJ}Ùœaâü\˜ÒB—Ï zĞ…a$c]ë•©³àd¼
+tĞsÃ:Ë†K ]ÿD8ÜŸŠuX»á)§êyb|ÇçŠ"ˆû$¶âA-Ôt`¤eÌÔr`·ïÇ6Ô_$Ù¾}.×…¦¤T{J÷6ÅÖUM²«‚‚2
+Æ@¾bµVÕjVÅjS²Ùgèë¨ÛßÆ•Ÿ'_ßZøf®)Á}úG^…]A¼iv$ƒªÂ‰˜ßMn Ù)ˆÅfN¯…Eæhµ7=(›˜8¥Ó ÇÕ®3ãóËş	§ÿC›ŸÂ.?ı?d–‚Ì6-é™af×0QÁ9SQA†™bæÊ·ôk™9è
+endstream
+endobj
+23 0 obj
+<< /Type /FontDescriptor /FontName /VTJZFT+SourceCodePro-Regular /Flags 4 /FontBBox [ -193 -454 793 1060 ] /Ascent 984 /CapHeight 656 /Descent -273 /ItalicAngle 0 /StemV 200 /XHeight 480 /FontFile3 25 0 R /CIDSet 24 0 R >>
+endobj
+26 0 obj
+<< /Filter /FlateDecode /Length 409 >>        
+stream
+xÚ’Íjë0…÷zŠé".\Ëišş½N.4-µ)—»s¤I® –Œl/òö•4q
+¥„lüyÎ4¹x+£Gi6]_qxÇÎV`”½Ô-›LVFê~(QÕîŞ¬%ö0ÍŠU¡UéÄ…ûAâ¨úYôwJIü`Záßè£zş—WQ
+™‘èÜÑ;î†}m#î­•ê÷Îò58	œ“@hø¶SF?@rÅ9w´ÌLãÜ±ø84Äã2¶JK{œ6~,™T¢?RxŠÆ%çÍå¡ë±)ôÖ°åb÷gÕõöæ¿dñ«•h•ŞÁôÜ NXm»G?p–¦ qëú»ÜÖuƒû4
+éªª?œåËXZ„Yà„FNÚµµ@[ë²¥‹ƒ§°Ìİ•2Ôò[“k³%t‚ñ59•ÄÿÚ†F·®çóEê)É-’@3NtC4'º'"ß"#º#Zİ==åD«@·3¢œhÒ”a*¿ ¿K§Å`­K0leHÈg£4v»5­w…;“ñ{zÍÙ'¨
+endstream
+endobj
+19 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /VTJZFT+SourceCodePro-Regular /DescendantFonts [ 27 0 R ] /ToUnicode 26 0 R >>
+endobj
+27 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /VTJZFT+SourceCodePro-Regular /FontDescriptor 23 0 R /W 22 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+28 0 obj
+[ 66 [ 486 ] 68 [ 389 489 401 314 477 ] 74 [ 276 ] 76 [ 486 266 783 518 447 489 ] 84 [ 353 307 ] 91 [ 436 ] 161 [ 486 ] ]
+endobj
+30 0 obj
+<< /Filter /FlateDecode /Length 19 >>         
+stream
+xÚc`€ ıõg L Pû
+endstream
+endobj
+31 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 2647 >>       
+stream
+xÚÍW{TWŸ¨l™ÍY™©3´k[mOµX±§ÕúB«¢"¢ÅHä™ !™dò 2	¯B$<å!Á
+H=Z¨¢­*«B}ukkİÓµçôìzîÔq;ÑİÕíÙÓıwç{¾û˜ïwïo¾ß÷İáAÇÃ·ì^¿iíÖ7·d¥	
+Š²DÒÂ‚‚,á[›Šöçf¥ûWÄ2‘ÌËÆPœy	bæ…B>ƒ!˜¹ŠĞ„†¾ôp’=÷œ÷p)<‚xásüí/‚e¡¯pVè»¡óıÑ¡¯BÁŞË)RÁö›¨Ñ‹Şç—dÈ,Š|f-y;jÉ[KŞ^¹3SùìÕÈøq¶ ½(r´(S\P¸è¹©'n#Ÿºıõğšqš`S†@T”UT
+qÏZh´úÚ m„b¡-ĞV(ÚÅCÛ¡ĞGPä	€xşuáPøÎÚ
+Mñbx?ÏH¸X /ƒ»‚úƒóƒÏ„4Ì„fÊf¡³.Ç39ÎãÚùÇŒŒî—øGº ëÇù`% ÁJ–†1'ø~‹õ÷@ ŸÌÁlÁl28Égıp/(l59w«KÂ§¯ƒ÷¦‘)f³oÎ¯4§c‘ì«lµ£~Åí“ãcßM&}å~˜*Ò•(P™MÒ{vpğó6Ü®ÕÚ*1a¾¬œÄt*S½¦ÃÒL Ã_/aJc¤0dªÔPf¨°„ìa³ùQ{W¾›ƒe‘ƒãnèZ<”¢™0’/lÆÃØÕäiÀvónİÛ¿
+ ’?yîÄ…QÂ¡#m*,5#=;+“YšåDE3é@ÁÂKw¦:´Ù½Z§ÅuUz¥-w”7µ{İ^Ÿîs–—¾Y’ºß›˜½2
+Í¶¥ÌÆE-½²#XX9Âôƒ”n§ÃX~ã:X>\ ÷AŸ’ÀšÂ*Ùÿ>á&F®6sQ›Î¬Â‘»ùdLešNW8WW­·àİz¸ÖH•ú2­”²`CP—Bäp¼Îc°Q;–Ü!'Ş™ Ì×8j6d`9Ô©ñWÁë?xwe•},J$ÂØ¥äxÈsë	1ËA8¯TÕ¨·èÓvm÷¡‘eƒo]8Ówí4^«ÕXØö„"U–’Ûz×jl©¦	Vñ£^É^Eâà•¾±ÎO°şz•ˆ0²ªæ_~;Pö„ÀÜG¦@<ƒòKØ å6ruåB} !¤LYRYÉ«lQ¯’5K1±JV&m-¼xdÈ}´›èğy®ù@‚sÚy£ñ¶¹iî½ {£…6qÁ`´¶T£f½I‹#SìŒ ÚÏmµ½uíg½G\MØÁZm±•Zèü^¬ÛÖêLí]'«Ø»ŸÈL“¬,]ºI7Wf ÔzuˆA§SèQ½ÙhÆÃŞåö
+‹ÖŒ]á¶ŸŒ']¸’xa!æ0Äo×ôËİxC£·Ö†ÙÍZ­™P[m*'æªohv•;‹$2'“h“æ8S160uÕòÔæıí9òHY %e¢¤±¨­O½·sú>(¾æİõıt.©ç#'¾¼u­iu7´Ú›pÒÙJu`ê·ç&~"X{Œ<Tºª.I{*BÆ%­ÒLT•şøÑá1œ[6zvÈëÂÁFpŒ¿µrã¶8ÕäèdİØù£=8Åy´z½¡„Œ%~3ÁÂè?Åşˆ$=ø#ßî«ó5¡j[eN
+¥IÆ‘\JmRÖ¨BìA\g¨Q‘¨J/§Äx2›S9dš•ÕÊ»p$yt¸÷ô4ÙuZåID%$Fé¬uv«§¦@öT3	|‰GÚÖæñ´µI=‰T*Á¹$qìê»ùÍºËÿ’Ì5&¹óİ$_[¢. Ñr»òĞ€qø0÷ƒe°™¶mm£TVÂ•S»ÛÓãÍ=‚õöu"hªÊªÄD%Å2%&£\n’Uúäåİš†l{ˆ%™<1}ÚîrcÈ÷mUò^¬áPsw‡Ô–Ÿ'ØC¤gÁeÅåÅØ$—bàŸC€aì¨ŸØ_ˆ§û¿÷õ
+ Bb¹ÎGw’öN-Ås„RY¡Ö‚ÃÃcmW‡q¤ÚQåÏòr¤
+L]UCÓæFû 
+üLÄÄãÇ—ÿı9ÃÁïÀB°hêşŠ)$M	bÁ~k‚ŸcR?4àÀA4àéñC˜»†ÊS
+©\"‰M}~¡ahÀ€(ÌşÆ×}kvPyJƒHK éP“iê4Zâªl8=Öy³GZ!»²Vb‚B® bZ}Õbòšk	D¨<>„kZº›Ñ/òZs×íŒ[»7;«]õè¥¼&qLlâªx\_m²ÃHœÒá«ÿÏLT>ÁAİÜ§ñÇM¥“kÄxØ¾ÿFÂ_Á›à¯‘8f=x? Ş!İg=èB'òİ»ö³ĞbÜPmöƒÕ¶m|Š•¬¡üX¿‚Rë*8œÏ8¬}FÍûœã›_ŒîÇZ´¹
+˜v)¬ÎQıS££œ"pÄükEHÜQp’"3szxÓ·€äVÀ4XÆO¬ggäP·¥±ÿvèâ0,ıÃ._ÁUÌPüÍÿŞ^{Ğå,7âufaš®‰îÀ÷‰ÓK˜hßÀßˆ°VşŠà8y|×OÌ<¿õ@	i8Î¬ºÉé½™YÀ·¸ì]uhéÈSj¼2~Ïa83Bn±S.ÌÓéquAšæ?JÕˆ+9Ú™Ö´Š¬›ô0’l¼hí÷]Ôq“	v[õ¦ªj\f®0I¬toÄØ—7v–ub—O">;ß~q½->ÿún¡¬<ÑìïùI%ëÛñı’ô<&É¯ï,&ÎƒaØéít`ëörË {¤‡æ|yûj XKòƒîŸşìÊ±ü‘Ågˆ<7éò¢}îş£Ş&u±/47‰Û°Úåìß5´uiâæ¸tÏ¾s©ÄÉtv1º3]–"‘[=:ü NŞ•‡‰Ô…Jáˆğ«*Æö$¢æûÂşÉqÌ~¢îiˆx®@\
+Šc½~±æÊĞ.²{øü‘³œ×ë¨¶ëãR²Ó‘\97»é^â4pÂ÷ƒê¬ö6%² È1[šíëjGÎSŠäâàErJrì§}§ö^#KÂ?c¢ËÄó%Ešr¬Tnq$H7”gc™)±ñee³j±‘–&ÇÈğ€ªk &ÁjXWI‘ ¹Ja¦¬Ú­³éi—¿{¼NÖÔ®)9ÄyªğöØÑ/€6eV`q‘VŒ!Âİ5}‹±KÓ`¿äír·8œ!ÿG—9šÙÁMVj¹[Ye¨ÑØ0mit <C-ì‘Tk0-e0èˆ0ÿÁúw¥‡–ù¯÷›ÃõÌêzWÃ½Úõ] VU¬¨cÖü{$„UĞ3ñ÷…ÂŠÅ¡3¡³}³®ÍfNñÿäŒÒ
+endstream
+endobj
+29 0 obj
+<< /Type /FontDescriptor /FontName /LXEIBM+LibertinusSerif-Italic /Flags 4 /FontBBox [ -1325 -312 1389 928 ] /Ascent 894 /CapHeight 647 /Descent -246 /ItalicAngle -12 /StemV 73 /XHeight 429 /FontFile3 31 0 R /CIDSet 30 0 R >>
+endobj
+32 0 obj
+<< /Filter /FlateDecode /Length 443 >>        
+stream
+xÚ“ß‹£0ÇßóWä
+İ×Ø­õn)Bk-û‹µûj“±¨‰ÄøĞÿş’Lİ…å('(~œï$ß™Œ³ou´úÑÃ=£ï0èÑpˆŠç¦'³ÙNó±e_ ˆ):<Ò7£y–Î‹jW)iïœ¸Rü<
+˜Tÿmá$Õ—ÄïCçøˆ>Êjû=É#+Õ8Ô`dU¶9K1Ÿ{öìrşGN†ŞÔĞ°äo0ƒÔê‘&÷Œ1÷¡T¢Ğ¯y ñÕ7§JZ©„¹š§G_
+ITHn¯¼sÍóÉõe°ĞUªÕd½¦ñ»Ö\Bw$~5ÂR':¿éÔ)ë±ïÏà]QFòœ
+hİ®w/M4ö©„‹J{¹İ™¯ÌÃ¥ºœ y®}ÃÁ4êdíÂrºŞ»+' Ä·8Ã¬c‹èÓk’M!ş§1~¡åÂ-ÄØ*É-‘R¤%Ò
+)EÊVH?‘2¤Ò/¤i‹´C*J¤Ò©”2¤=R(cHè3CŸ)úÌĞgºEÚÚ`^™äØ‡P·o™Ÿ„Ïsâ£1îÂ¸„3ğİ—
+>'ª×½Ï
+wÅéGñôº'’
+endstream
+endobj
+18 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /LXEIBM+LibertinusSerif-Italic /DescendantFonts [ 33 0 R ] /ToUnicode 32 0 R >>
+endobj
+33 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /LXEIBM+LibertinusSerif-Italic /FontDescriptor 29 0 R /W 28 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+34 0 obj
+[ 1887 [ 618 ] 1960 [ 912 ] 2024 [ 912 ] ]
+endobj
+36 0 obj
+<< /Filter /FlateDecode /Length 17 >>         
+stream
+xÚc`1€Îj€Ñ 
+endstream
+endobj
+37 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 710 >>        
+stream
+xÚcd`aa`dd”‹rt	
+×öÉLJ-*ÉÌ+-öM,ÉĞJM/ÍI,©ğú¡ğC±›Gî‡ÃY†rL?ä™H°Øò0oæa‘ùe+ósº—†ßSVYFA~© (Ãş’G	ÈdúÆ£‘àQe`Ú§WÚÒ9¯­¦zÎù•E™é%
+–‘¡‘®‘‘¡BHFªB«B@Q~Vjr‰‚ciIF~Q±’ÈX¨±hÂ)ùI©)©y%™%•ìñì+Ø_030Ù,,L@–/£c*ã©Ğî½?^îc’*{™»Y~tüôûÓÁvû¯Œèw»ï“¾ÛıÄú‡íÇ^Që7ˆ÷½êû$°ëŸ	ì¿c¾ïım÷}"ë÷l|§[—•®ø>eã÷]K«—]_»ÿÎ÷ª;Âù?öı(İ[µ%}­Üh—	>Ò¿9ë·´•É—W°·÷uLÛÚÃúça0{[GG›|{o'k÷wıŞu›vó(õö²ÎcŸĞŞ×.WÈ–\3s¥ü÷öó+Z[&È¯ÿô;„5fÉÔcÒ³æööO•o_Àš–µf{‰¼Â÷DVáüí3_ù"eÕ%šX—Q/—YSå ñ}Û„ÅËûÖIŸ¸›û›Kş÷ÿ?a¢?Ïfïéííî“^ÚW•'ÿ§‹=¿«:Iïû¯ïõ{÷ş<À|ì{½èOU¶ìœ¨Ğ\ç‰­K»'N|øæÎá=súû»g·÷GÍ±:lú¦ubawkëJç=¡«s8şª²Õ×wN¯ç c²÷=Ä ø‰N+œ“7¯€ãÏS˜’Ÿ<ló‹çVLiij©¬(/æøË“ùñ”­¢ *¯¡¿¥| ô,ğCšG˜"4€3—Pıô3æNÿ.2uİŒ•SÙ~7Mc—³švè?g7÷z®[Ü·&ñğşØ'
+  ÆW#
+endstream
+endobj
+35 0 obj
+<< /Type /FontDescriptor /FontName /ZADRWW+LibertinusMath-Regular /Flags 4 /FontBBox [ -1475 -1641 2600 3813 ] /Ascent 894 /CapHeight 647 /Descent -246 /ItalicAngle 0 /StemV 73 /XHeight 429 /FontFile3 37 0 R /CIDSet 36 0 R >>
+endobj
+38 0 obj
+<< /Filter /FlateDecode /Length 381 >>        
+stream
+xÚR]kÂ0}Ï¯¸{ô¡öCÆ6‘‚³
+…ùÊ{k“[Ø¤¤éƒÿ~IjÆZzzÏ¹÷Ü“ö6;oÊdŞhÀkÙ(ŠŞl™U¤×K$mJz…ÈuÕz%é5ôgi’
+®†œ
+znv¬¿IïxäâN±s ¿Ç/ï{šlïƒç¨4M½ÌôÉÛâ±9gÊ¬vÏõÙhşCÃ‡p-?QÕ\Š1„Ã Ì‡¹`3YÚkâ_}ƒßmRpÁÔÕ<ävFÀ8ÕWä´4áYñîRk,SQH2™€o&óZ«‹Û`@üµb¨¸8Bÿ¡SÃÜ5UuFë
+ÇÀ°0Lv«¬Dğm )3U®/“¹+÷—
+!r8lÍSÉ°®2Š*G$HÃda®˜ `¿êA«Ê‹B÷:ê*ô”)ÓçåyaúDa˜ÄM_z‹š·(‰â¶…ÓØi6ÄÛŠ´QÊìç’vö­q.ğv•¬¬Êİî»Ì¢õ‚ü ·ó‰
+endstream
+endobj
+17 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /ZADRWW+LibertinusMath-Regular /DescendantFonts [ 39 0 R ] /ToUnicode 38 0 R >>
+endobj
+39 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /ZADRWW+LibertinusMath-Regular /FontDescriptor 35 0 R /W 34 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+40 0 obj
+[ 14 [ 333 220 323 ] 19 [ 465 ] 21 [ 465 ] 39 [ 504 ] 61 [ 292 ] 66 [ 481 504 429 530 453 314 499 549 260 ] 76 [ 503 252 807 539 500 ] 83 [ 355 396 340 537 462 ] 89 [ 455 506 ] ]
+endobj
+42 0 obj
+<< /Filter /FlateDecode /Length 20 >>         
+stream
+xÚc`ÂÀÈÀÀbÿ~~ xÊ
+endstream
+endobj
+43 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 3049 >>       
+stream
+xÚWyXgŸ’A±2;[˜Ñµ¨õh+<­mm•Po¼ EÀb¸•#†@¸H’É$\¹8ä
+‚\FE@ª¶bm=Z¤î¶V»Ö}Öµk}¾qÇî³´ÇV»ùco2ß{üŞ÷÷¾ï÷ñ ''ˆÇãşşı×lZ¸>V)WÄ&$'mİ•ôÚ–Èèä¸]rÇ_f&3K'"˜é3C1Ä†ä3®NËD|»Èiú¿/³5ÓSş=M0‚xS¦:~Ó¾ÍæbµÈİñî+šÁœ­Y;“óµÅ/´èñúâ‰²4yltŒbæ¯+ÏÅ¯y.öô˜é9óWÑ™›ä‰»#Ã3½“1‰ò¤×óÉ¡væSµ¿ûÛ;"Q¹&"2A«Hƒ¸Ÿš
+½!
+Íƒ–A@+ h%ä­‚VCk µĞzhäm„6A[!( 
+„¶AAĞ>ÄsHÏ€fLàV 9T5ó<xm¼&l›ğwş~—“Ä©Jğ–ĞSx^
+_r&O4O´cR÷äe“/‹ŞUˆØ8]ó}?{º÷ñuNŒæ‘ßcpì§é(XJÀr¶DğXÈô¡ëxé dü›àqÌ†€”]ŠàPÌî 9ƒ¼VPÃ µ–Õ›j£ŠdÓ„ÙY)¹ÅyFRÌ~’¼AàÄ<î©—77××·4Ëëãâäò8BÌF<Â”¼rĞÌÇa¨TÈª~
+Š×\fÒ‡xà«oø@Î940¼rWvàŞrÅLV8/(Ä™RëÔXfQfQ.qUÌpår“ö²È]k¢,f¬‚®(,'
+¶Äkâ1JVFRz­ÇŒ&sI	qòÄ‰‘[Î}íŸaw×°N‹7oWµ¾Vª¬©¨¦¾Ú­¢úPI#.^£¡A}Ì¥82ŠÈÀğ*Št,×*÷o'h@×l¨¨¨4ŠfÓ´&™zXÛ2Œõ	ËÊëÌÆ‚¹”[éKEÇ	=¥§ˆÜLufFšN4[§ÖP˜ßÛ¬;+Ûæé¬JÓä¨°Ìº‚vHe/²ÂbÙ[
+ø¬ÈÏ¸<øIe>rCY«06İ #µAéı*	Æja¤G¢õÉp8„¤ê*‡Û*9zƒ oHûé5L„{jò/‘ƒ@k¤ÊŒ˜‘.Ó	AP°)´€„Â•ô¿JlÀ ‘­#õ…ª”²±RÚB—ZN,CA%áb6ï‘Ÿ’g-ü³üĞBşS–à¤P¤ê{\z¾«¿òú¹>îE#,‡R;ğúæâz™W/PçäQy¸*‹.ŞOªŒùõİ‡€oÆ îÙàå•"'4êÊÕVJ€Üéil³÷âígXA¾š‹ùzŠ`b]À*Ì»?ö*Ü?İhí9E‚•¨š,ÈÚŸŸ·ŸHIŒM‹Çw&45÷Ô´Öb™Ê“ÂÌ±‹ÒåÆİBN‚%Œ½JŸ*:G”hû	¹*%_ªÑj\KÃ
+½½0$óñkpµOL '÷[´&Ül±Tšªå‡'uá? Áe®Äo~½ 8,+*–dÏ9l?R_u?7ÄNc_ŠZ¹(.ê`½’ÏQõÖÎëü–Ì+è‘Ã‰¡I+]wƒgEÜ6Kş
+Ë[ÂNgÉë@|öDu¿L­¨…±‘{ò¢ğ¶Œ€‰`ÂğÈ)¦TI)ÌÜq(ı7AÒå§aT/D2‹6´ª˜°êKèrKe¹;òŞ•{•Ëû9øjá@ÑùgÀÒØµ°U!5*qöÏ=Øé$r’ze€z{j·§B£CåR< tLÆ{OØ”‘6R¼LõXo.v^Û· ôŸ™ş Œ	I÷ÇcC¬İ‰dZãş£Ã¨šKŠÍ•şÈººÏy‡·Å²µ5œ”¶Ë/â—?éè$Y;DTÔ6ãöî(I®º@ÅõŠxã´Dœs¹7†¤Şc¼Ñd…NŸEæg¨T™Eù®ôVº§Y?¡„Z™@è9Î÷Xô6Úb±Q–'è‡´9ô~m°í0EYIC…ÁT\^PâJ¥ÇS
+<Ì(l/8€nï:X“©4fº¤ÁÜfªq£‚¢¼´¢T|ıú„àH228=d3&ŞÃªºÀÚ‘ğğŠ$Jèti¹:êsl5]A®Jt¢—d-Šr¢IÛª>ª6\‘Q	Wj¥R+/µ`uLDíÆm/NK1$ãï/|UÒÛ˜A"GO%(cb1©-z0—@ºÂ³ãR÷*³SsS±÷¿‰}ß¹ğ=\ùº{_s¢h‰ò¥cğôp­FARûTT_ØU]TY[Eæ[›ó›pÎÌƒóŸ]'‘kaì±ÇnhkSÇá*¢©ÇP†÷6Sä¡tSÂ^Ìïİ=o­]Sû)ÁíÑŒ+ê'Ù¸"ùÄ¥‘¦®áC}ññ”L=ëàŞí1?†dr5ğ#
+æ“ëÙJ¢%^;{SAy[Ç³sÒ¢¯ã²S÷4;ùCÚ_8zÒÙşjãı5Ê¥ä|É”PÛó'7Dø¢EßÑ‚=ˆô ÌHŸLÉ:-¶q×V*Û.c?¼1†(nƒlÔ–h·ç?Ñtôy¦?‡¯Ú‹ÏFŠÎ#Ú0*EÏ9(ŠÃ^IUÿ 2[RCƒÍÖĞd“É’’d„8q¼G5ÍÊ:%8â’p„ ŞÔŠ§~w=ã7×|Mp©MÃÂ«lÑŸÎw.×·Ñ••m”Ñ±Åûz@÷" »9ú»Nk®šTÛ Y—¥JSgQÎÀ
+_+ì+úø¹E,f[nqMÙáìİéx;àÔ‹ÔCO³ÏttÍ°1 C¢Á.ãÈÆ+p)¥/ mÉêhJáˆZI˜‹ò_’×øœäa`
+Ü{âLÓa¼³1y5ÉN€‘è?¸—é,”…8Õk/9‚ü?Åş	ßÊøŒ…6§nÜBôæJ›·âHô†MáA!¤¸ô·Øş2Nå(&¬FáÖ8±ãñûjà 6<ªƒØÃµí¿;êW:şN ‰z""SÙcT ú[~'Ø…²¢ë‹€p»^Ó?¸ÅâìËKŞ`g ’k›kŞe§,
+öY=Kà/o6Üş+Ÿqt®ä˜ÇñİC¤à=pE|¿{
+eí Ô=¯PàcV[M+Q[^k­Â««´ÙV²T/@¶T_U
+iQ:¥OÃâ¼>äÀŸ€ü,¸Îï»¦¿-PÉïÄÑrãôµ->•d¤Ñ¿ª;ÚZÛ5Ğ"•ÕetõU.Üå	şåÛqïåï¼wvïÙtr8£+c¼«õH"wJÜª:/MaÈn—»ÍïrSA™¬Ógÿf*T6sSoÔ¬ˆÇÖ‹;~¬ÅÔpŒ@:²ëãr”¼Ğ-©0×6Ødè:‹—Îg&CZ7B„×hkáğÏµ‘­Ú]àè2mŒ6†›Åª3‰)ŒÏSú„!•ïoh!¾¸"O–¦Ü¶<3†‡àkô@é©q^UfkTv¶‚Îæªâ…Í‡·ÇoØÇî6ß!ïÁHëìgE°oËÊ{çÏô÷·b_Í)Ì*¥K5³”; îÔ &ƒYg2™u\ sÏƒÙÀ<ç\Mª‹•.Wät„³‚öåĞùÎZa€w§h ;giº}{uÜÙEvŞGìì3ì\g±×‡zYÈ@8Êz°Q“¾‚6™l”IäŞ9ÔtÚ~Æ¾µÉ¿}×ßªéŠòª\ä¾qtÇ—£à°Ó5K›L©r2é‘{äÖ=»Âe§bÏ8§k•TzÆ^š3)–³q)<”¼F&ßÈø vO0™5^´G"]¾Sâl2”ëM¦CZ‡AîL’Èìm½è¬â\V©8`"÷hVÂş)Øƒ´Lü( ä %ëöeÉuû8ıæK.šË]¡Y+c…K¶…ñ¶(.¦ÃÖ&“Í5Ã:ÑäîIc“ÇêDS˜Fô¿UP´9
+endstream
+endobj
+41 0 obj
+<< /Type /FontDescriptor /FontName /TTOTIP+LibertinusSans-Regular /Flags 4 /FontBBox [ -1325 -268 1293 893 ] /Ascent 894 /CapHeight 648 /Descent -246 /ItalicAngle 0 /StemV 73 /XHeight 460 /FontFile3 43 0 R /CIDSet 42 0 R >>
+endobj
+44 0 obj
+<< /Filter /FlateDecode /Length 501 >>        
+stream
+xÚ“]kâ@†ïó+f/„ö"uŒ™D‹Z? °[¥†¥·1s´:	“äÂ¿3óš–EVPò8çã}ÏœŒ~ìöá‹¬NŸ8{§¶îMEáòWÙ£Ñª®úéîH’NÛg¶3uµ§=,óU®U÷hƒs]{ICÔ¿ƒ^é¤ôwˆëÃ
+ú‹b[ä»ğ§:é”îÛ}©ÛğNı¹4!w¹…êÎ6çÂ™awc˜/ù›L«jıÌ&OœsûÇZËe}qÛ`|ÓÍÆƒ“£ÒÒÜÄ³ƒ³L"&UÕİÈÿV;<—¼¿¶]r}¬ƒÅ‚mgÕvæê<ã­‘d”>Y¾§ÔFîû¦9“SÅxeLÒÑ6°³{+/ÄÆn ¹´§ª»ŞŸÌwfqmˆE'_Õ’Ú¦¬È”úDÁÂ„gl±±Ÿ, -ÿ:çÈ:6`xŒfÃQõY_hmq­2OĞÚÓ„ƒ6 ©§i ØS”zŠOÓ•'±ôG’	UT‰cĞ„š	jÚbtˆg 4Í@/ 9h	zAYrSï	¼ÇğÀ»€÷ŞT§P- :…jÕ)T¨N¡Z@u
+Õ:SèĞ™Î3Ü¿w™nG¿6¨ê±ëãÙo‡Û¥ék×›ºqYşë_’áv´İ U·8
+
+endstream
+endobj
+16 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /TTOTIP+LibertinusSans-Regular /DescendantFonts [ 45 0 R ] /ToUnicode 44 0 R >>
+endobj
+45 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /TTOTIP+LibertinusSans-Regular /FontDescriptor 41 0 R /W 40 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+46 0 obj
+[ 3 [ 336 465 465 637 705 190 298 298 369 ] 13 [ 220 338 220 ] 17 [ 465 465 465 ] 22 [ 465 ] 24 [ 465 465 465 236 ] 30 [ 550 ] 34 [ 695 ] 38 [ 557 485 ] 45 [ 528 ] 48 [ 702 541 ] 51 [ 587 ] 53 [ 597 ] 55 [ 652 ] 60 [ 356 287 356 518 486 392 457 493 428 506 447 310 500 538 271 272 512 264 790 542 504 519 503 372 390 316 531 497 747 490 ] 91 [ 424 277 205 277 449 ] 106 [ 307 ] 112 [ 267 ] 116 [ 341 ] 122 [ 349 ] 160 [ 457 457 ] 163 [ 457 ] 167 [ 428 ] 169 [ 447 ] 173 [ 271 ] 699 [ 0 ] 1772 [ 749 ] 2361 [ 560 540 ] 2385 [ 596 ] 2396 [ 556 ] 2400 [ 477 ] 2406 [ 431 ] 2412 [ 511 412 529 ] ]
+endobj
+48 0 obj
+<< /Filter /FlateDecode /Length 47 >>         
+stream
+xÚ“ÿ^ôI™å*ÿÿÿÿï3(t(0 ÁEJ Ã` T3)Á£‰ ­ 
+
+endstream
+endobj
+49 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 8802 >>       
+stream
+xÚÕzxåúïÄe‚ë1ãj²£3ˆ "Ê¡J“Ş{K%„ôFzï[²uv¶·ôŞv³›Nz(1H)R„¨ˆŠpì¿ÁÁë„ÄvÎùß{Ÿÿó¿gŸİyßï}ß[~ï7ë¹¹¹a+·í\µ}ãÔ!	I1É‰;B"BßÜ–àºe-9|I5%_€ÈÇC$ú‰1H1‹Æ3ZÇyáç”é…1÷~Í|‚Üà§]¯'yalìø‰ôÛiSÇOr}sdüdˆM/7qªœ0ıëEçL›¾"6.=!",<iÂÈ»™ÓgÌ|sæô™3&x…‡L‘°5!62$(iÂ²ä¤ğØ„Äi£.éğHïï¿_².8$&)")¢ÿ1 1bAlˆ…„ÆAOA\èièÈ‚¡ç ÈâC„B¡W W¡7¡éĞh4š½-‚CK ¥Ğ2h9´Z	­‚VCk µĞ:h=´Úm‚6C[ ­Ğ6h;´ò‚¼¡´Úí…|¡}´Š„â $(*ƒÊ¡J¨²AÎ'zXÿ;ì‚±ÛÆúõ:6jlôØäæ²Øòy‚~·	ÒB”Û7O1b&Æ¥1Ï‘és}Ì/Ì½ÌnÖRÖA6Ì®æ<ÉYÌŒu{éIù“÷Æmwy¼ò)ô©’§n>õ3w7€+áv>½ãé{[öŒÛ3Ï|ç~îzvÁ³‡x•¼_óü)O«¾'¿™ˆœyaë‹/¢/ µ{ËÇîLH›Ğ2áÎK“_úr¢óeÓ¤	“Z'/?¹÷•œW·¼¶èµ“S¤S~x½vêkS›½U}äW‡Üè×I}ÕRqóë£_^àÅÀ SæÙÇs½£\Ÿ@0]c>Ğ±)_p˜G-z&¸ÍâR1÷=SİNİh½Á¸E.æÕh™*˜_È/ÅG§Ä&‹«©Y*¸u‰;xì#nÕätø<àİa0§²êÀf+–ZÃ¤X,ÛĞ‡úÃ4VîNæmV:Åf¾ùğm,µšÙDß¾š	Æ°âèÍôí«™_±G˜o°BŸ£ÅK ›	˜,îL±C &‘sQö©î‡Îü
+-B¿B“„PüĞë¯¿~-„ıõs!Ôô+´E]…‹ÊH6ù	.ò÷ÕË
+6it7<r²”
+1&[Èœ¡x{ËTşìS~¢PxßR¯Ô)²)£ÇZóşÖô„Z‘R,Ó®Ğ&Yöqà’	‡«2å'1Ù¦¹„Ğ1í§-D³ÙVâyÄá<ö.ÿÖæµu(ì(ê2ôé+Hò8•]±»Ğ‡C*5b6«ôŒ6GÑ)¯õràâ	”'uw(¥/zY`Ğr¥¯¦ƒ»<¿òı£üÃ]½ıÊ½&°ƒ@{·¼ŞTbw8
+<ßõ„$DóÒÃUUŞü«Ğ*ŠÉ‹EVl^9k—mÛÉO; ó=Œ¾É„›”TXÒ,ª@l-Ú‚fŒ¢(œYä4òìBf@ÔbA ’ÿ`!ogıö×:Àg.î+Z¶eÉ|”VJ•‚#¼cmŸöW	wo‹˜í•o=ŒÒjÁeêìĞ…üZ±ÏÈ™^i	ô.˜*r,Øêpkÿäğ%€»<äü¯xu¡ÌõİMJ;ÒĞY{¾ÓÉd:!œš”‰dF—¶Gaa}­å­5=]Ÿt'´z½ªLªç¤âÑxDD ‘:~’TªJÑK*
+d!«2$ú‡íÜwrÛµt»Üèq­çıÓıüSÛ:W½ê½rkH~pÓ”òX¶síÛ|Š{}ÿO×ûÛNu¡Ô àYR>¢8K9k÷„…­D6z7|ıAùÑ°–xñ½‚æ
+şû½uÕmÑ~a¡>Pîˆ\bÜÜ`şu~p)åÿóËn×@ÇóÓR™ ˜Z‹šÕFƒÆÈ‰l¦ÆòA!x õ¨Â,1	5nò4j!µ™O+¸¿&Õ,¹Æ 3XÇë”ƒL*¬EEÊ\‰"—ãc)”*äS…Ô“z ÕˆÎã¾¿—†MdÏ™hSO1ÀÛd/2tW®??ËšSÔlx·³
+®2¬oAò,Å­{ÌM˜¦¸˜(Aœ›YR™y u¦¶µÖğ+³,éé‚ô”ø’8m0Z¼?İ$Š3³£ë%½ù¸"ãR7)Oæoaüx‡•œU-*V`%Ê"i?%lŸO*RKô¸åXÏyşñø– ¦(xÜ­X $òòòk­f¹Y„Q±,ANRºH/6¹T‹î¹Üc´ób*ëê*+ëê+cbcèj#j »ÜZn‚›&â]c¯Á7‰×÷ÃâlŞÈkoÒí™àxµß‹­uf· Zº J…VÌ_³„âóÿ®Ø˜½Ÿ¼GœL%7~¢«ãÎT:ÈK4„aW pyà[öqâ„:Õ)UrÔ+bgÂ¬@5]LRNIW¹¾)Ò$F`Ô {^œl•}¡œ^¢‘8ÚS‰÷Ÿô(ŠWi2t×øÜ™ªÓ¤¡Áığµe——ŞË?ƒOŸ Ãy)%éeE¶âr#]~(|QišŒüªêÆ‹‡¦nHòÙº]¶œ	ßšòjæŞ­|Õ!u=
+V°ê»”*,ïˆù2a“êrÔ"%geFFBB­fõœ;«Ó¡ßıƒ9ĞßŞñ!@³: ğiŠ±zşÚIa8ß&1¤ºƒ·àÛàØÆ{c÷ª-!9U¥YhQNFA
+’––‘x=b üí³/û?ÖŞ¤Æø‡Š%éX)XÈ”7ÕËz›S­mÃà+…g%Z&|[ºİ[¶	SkÂ±ªYz¤YÛˆœ>äO¹Ñ‹ZRªRÈæÓî‡È±pXLÖóÀÖ"jçÛ”Ïê£Än:« ‹ûÁ0T{fZ™²ŒdiB²"Ôfm:¦ÀU
+ß+Ü’ëcQ˜qÁã>*wê‘GQáŞu&à°î¼ïEø6ù"™Î»°ãÈ¾2yİæÅ;jO„`Õ™4Œ1Y4!Jæ†eøó'_ğ¾ïî‡Çí¬GW¶ÓtW|xø=>|‹ZøÀŸç·Æş¹-ïü¬;–y2¤Êw/ÿÕ¥~´Z#ÙÍ;]é¿Ï{§_\*UÂÜØ&qØù]õÍÇé85¥ ¼¼ÛàÖw„ÑYı0ñâ¦ox…òÜÍhÅFúíäÁwNsN^°1Èû)vëbêyo
+3§k1x¡ºÅ˜oCM¼äÈH<™’|·<q°¯÷Ô@µ$Y'¡3åÃ=àuÏíü=ÆùãLphÌH^îœ>·ãä
+NÒIXa6ÊM"ìÁt¦eåêsMéI-øó+\ğ’ÒB’ãRİ4`
+ü}×&3ótzm%ÂXÇ¨EÖˆù^…ç£th"ú‰–¶f¼a8‚µšŒ*<ç!ÎŠæ TêGü¦héşÇ2Õ„ƒ°µõáMÃ2!_ma@ÀŸ—,Ñ˜µØ÷ÀÊÔ³¾¢ª˜\ª45ŸM­L^­ÚT÷^‡üÂ›Ö²:¬¥GÑË¬Ë…A«Ë1«Ò¢6ë8ğeY[Ö]¥‘£Æ	
+ßQdäâ‰edEo%ˆ ì‘çE²yü“Ùó2Fe7Ñtœp à «ç#:óû
+Ş7éêgEjøÖ%Åadvc şöuM’ŸÓKËTz=¯ÆküZÂIT¢ğ TŸ¢’J9^
+EÎ[wuI
+¸ú{Á‡¼ßh€ïàUx“ï$ª‰êßë˜F;{Ôjî@;Y÷ª†œµ¨5Fìw¾*2dx‚Ë×Ûÿ­¯DÑÙÙ;²u*ØÇæÆ«ZÈ¦ºİ»Î S¬š/i8Ì}æÓúÃ"P-PÒp„n}	ÙÈ
+N/9„‘3Ù×Štç5è#E~¸/æKìnìwË áD¸à5Q#y»Ñ­é.¹î.ãş4ğ	Q/.µ†ÚI1©iôënğ2õ4MsŸõ\íGi6qáS>õèâŸ¨'(?jÍœ‰‹âRlà¼@è7×¿Á¸9t4k ß)Kuÿñ:H¾ÿãG²”÷{3:	ºª7¼;ª¦/Ò&ji$³%å•Š¬ïã®¿üµ	Ù*	BàC}Fÿã¡×í¼º‚†çÎ%Q0ùì=!H­¢\‡È®L]Núï¡%Q_Âí`›«	-bZ’•”ıD-gúÖµG
+ŠÔ:3¦5à&¹‘ã—àlÇ(wÊlÏÿüğ?ù}maN´sï&ÍFß IÇ„û„ï¿ŞêN¢›hnîÆ;;·?Üìk¤„wâB2İTŸYû:¶¤³ê¬ Üvº[^h1Ò]¤ø:|ü@ÛJº³ß377¢å¬Ëİñ‹‹0K>¡5ap“¤KvïäJ5ÍrÏ)"(†ìmdnZL=©Ó„`J¥Çä~"á^ÜlÅ­|î£Ò®ê÷‘^V“9d3ö€ç2wá¨{ˆhm>4j?>ì±_›Rî³nİF¾/2H/ògŞ%™*.Å›šù`²‡œEÍ&§&×ç5x>’Âığ°°p"ÒŠ­½_fÌ¨Yv?0ydê3b1˜òõ"%İ…-§KFãáxR’ø8ˆ¹ÔÊÛvÿŠÍ@gÖ‚hø:€(oO8‹*vázB-’‚›|°oÀ‹f’‘káôPVzsª›Ô0úïoæígŒ_r˜,—n¯!İõ jíZ'qß‹7$B¯î
+²s ²fó öìÜ,êE
+_¹F«#?p£lXÉÏy?P*f'‹f ‹Èúw5­ÃMK&0È8ê	ŞƒPVn®*Ö˜Ë!CYF£ª6×H{ùÙ æºİ3`õı-<B.%dHDR†4S
+‹rcfdzÄhĞë¸AfÆ¸¯‹Ú{È1÷Æk®€9Wá6ĞÕÃ‹Ò[âúæÆ¢Ò2RZå&¡#•dˆr¼¥¯²ÁÄE5ËçÏóŞhTÔ—åÑ
+•Z×àzß~ĞÒììÎ ˜…\£sR˜pÛÔÄÕ;×ğç¿¾Áftv ¥…L5ØÄ£<Ø9RI®M‰HŠEv'·Ú;Ëº.•`ÜÍ"§"…Ä:€Ÿ­È¬Ju¿:"nÀµ`!‰ò¤R¹ÚÄÙpıim«
+5È5bNL-ÍR(sÕ™4¶Jƒt(,ª·ù²ØÁxº"…ksu:¹ÑëÍ&£ÉlÕ«,bNZ…MÚ€|Æİ³ wÆåÙş!±Q˜!ŠWQm3Õ!'ú–½N±öÍy#*¥¼*v™Öœg¡™³»¨—d8Üšn0È‰_ğä¦\­˜àìğOöG–o¾Æ‚'zŞÿ]cx¸‹Óä‹Ë²Ú<{ÿöÖ©¯½4“šHñ.ÌîÇ”|Ò‡q÷Šº%5àÛ†ao[n€¸AÚÛ›}<Ö¤&$M¢1\Å7*t„^Í”7œ0Ğ!Z@‡è¸¤—OîfB£õ¯Ğ eK”J	*,ŠDÖíO	Âüıã·.ãSOŸœ ¤–¦ÒÖ^Ìr‰—¦ÌÍ Bd& Ş;ŞÏ\Èo-(Ãºí5¥HcUNR)–Ÿ©‘Dñ¹D½ ¨Œ£Ñøì¥yî6/$4&sPv(
+KuºñA‰’i5è-ŸFNa³)æ<êùŞ,ÈÙxùğhÃáVLa–êôV@3`À,9oªDš;SæŠå2!M¯%)ä-@àt»;È +\µ¸ì6Û”O—´R¶V¡–¡4ÀÓº*¶BAx>šn´d—!E•e¥EÂâ”B¬8>^‚Ì¶œšíb§Ë¹X[FàZôUÆš—)÷–ôÚ¢µµgT¯]¤•Ò†ëM‰›À¶Q) ³ƒ¸ËŞvzËêÏ~²ìØóQq?|¥ŒÜJ>Ï+)..-K+Œ‹ß›ÁËŒ‚ÈÒ­ÈÌù[şî]U‡Ámş±‰™şü°ÒØê¾4İû@ì>şìOâ® ¼r@õYU1•h}ğ*"?ğOOP*1<K„Ë˜ğüöR}™µË®¬•´ Ÿ}ÜÿuwvMŒ3JóóƒA!ÖÓÃ@Y®6OdAhíÔé/ñ–Be½V“ôÄ3ë°–dkv<ÅK!3ÂæÖuª«êè‘§lyÓ|ÓBçŠ?xï|Ucÿ)ç¾y(7“Ş ÏÃÃqúÙ „ÏĞãn¯Ìd5šĞ¦æCå-HiYN’3§ªã¢ùÔìù"¹•Ñ¨ê¤Ûjmuàñ“t4ª2=g‡N¨ı„¦°ûå½I6´<#ÊìÙ’³f3†ã*Gr™ÔÊ'@2¾<*Æ¿øËŒ_Ç'o{¼‘¢‰nM¼öñFîÒŠ]I5Òî¬3¨RÁ3ßÒî|şí¬AØÖ¹Âj/>Õ§}O…ješ\4V$^-VJÕ™j)§_f–nçS>ìyBÅfÙÈ"-´_Í.¿†Ûµ}³VH/·M'ãyñ•ñ•µ•5e•)µq(ìHŒML¤ºJì ~lÁ7ßÎqYÀçy””MyÈ©§ws´ôĞn	
+“aJjzLcvIÙa½	ën®¥E>ûk[aûQ™…¶nËnC Í·VWyôñpWo‚9`üå‡yBùQ8Ò[×àÀ+»8äàMv	›–\“ØšyqŠG]°5p„Rƒ–åD©İ—Eh´qNÊ,ğëZ_«Rkµèg_ØêŒ­ÚáN„Çâa!¡DÒp'G.$ÅDEÄ§%gÆ	Òğ=¾;*"~ü«ˆàRí%)÷W»¼»37İòL¶y­núİæmÖiòB°ás#üFı1¹^±”ÏÂ¡”Ğ¤º5v¸ş}î¥IïÏ<Ü¦l”™9:¥R“‹Ä
+ãG¶…ŞÙ6WÍÏ‘y=Æ×F4ÓVØqÛHœ>Lyløã‡ùÕÒÚTjGšk×bÔröü\]®%VÕ¼êqbíÖŠu´ô,v¾*·¢Gz:óZæòdZv%”2ŸßÉ6¸2ä‘¬×CÙ™ì[YçgíÚ”æåƒ*R™ÒÄi×û Û|"|0¸W&“Jp+‡+Fáî‡Kÿ |l¤!€Û¤©ÒÄÇk”-4°ã_‚!’o‘€ÑJ›dû¢G`œ.6ÿ¦ØØˆzZI£KÉ‹MO’ıQ±/îÙ‘³f+Æİ-j Ÿnpk»47m €7ù,Åßë­pĞü½£ôÔ	şÛÁSÔ›ë¼ãüCÑ0ÿ´mù`7ØË»qd5‰r_åûrp¿r³ìÖç7œŠHIN’ÙEó‘ázŠœNqÅFµË	Èƒ%ì?‰ÑQ1ºr(û ÄÎÓâf9*ª²Ië‘wúŠZÚ°î®š“óá;÷–~=yß®h¿ ×l*•«pzÉ/JByõÕ]¶:ä½şs~ÌdjLz¸®0K-–ëù`=ÍqLÖ|”»kÈşôb’í¤=h¸’áËàŠá*ÿ&}\•ïYÅÎ—[„i®0…/ç¤Ë#§ô@°) ¡¸3^¥<¦¢ş&Õ8ôæ"n¯ÈÓªSø‰4@¥ÉÚ¬D>|™Ê`§ã²	*HŠÃ3‘m³‚©?¼ô}³­FPNÑõô¨~÷ëM'i¿¥A†óÀJ:ô”­øÂ¦rtŸØ4ªá»Jx×èáZ'ĞĞcl¸ªÚZa-F-+b2)…ô? 2XsŠÊŠª*®+I¯ğÜœ„ÂyR¡Ì¨£«Î<‘C™B¾î ëNeÆà¥áÈ€ò´{4¾|µÙLèØnĞ«”LRS#oBŞù¡æ›³{Z×Ğk¶TôóÛ+œåÇrßÊCõÒRÂuæ`Ñ4ª›®ÑEíÍ÷A–­İ»a¹#êÊìZDIŠ?ÏŞ”P¶'çYDXr…°CZÅ#¥ú4\êš‡Ä¢~ğu˜dr»5Èh'—ñ²å#,è]ê(k¥=¶««¯¼£Uš¥zÁIÎGâ¤¶“ĞÿÈ6æ[ã[XCR¯ĞÈä4M£B©H–£àä"…D 1P>7ÉEpÉ'‡Ã®A¸D‹x-İ.9ÌoŒ#ü6íOø-ğbÛ´U¨†^•áYxÖ0"âñ˜×«È¬ãÃ”7{˜·†Ğ¼5zwş-Œè%Ú#Ï®çS^ìÕ¶µß Üí¦ršÃÍ ş"ÀX¸JNä•ë)»P»<2ƒeªÌƒ+€·GzÜzÄğ(P"é¹322šˆÖzDjÈ,İ¥ÎydéõÒ<ÄlĞ0à	Ş/é°T½£ó|ü<%Œ F&Và=lÂ´ÀdÚŠ'`?mÅ¨7,$ˆ–è–YDe>àyêCl½QjFLF}¡ûà?PóñWôÀü<8_ØVT{H3²|20bøe¹(&;|.ì!J«rËæ€X´nµùˆöñòAxtBäˆD·ÜSì§ÏôXE­Ê‰Tâ9õA`ZQØ£ñän éÅ„Ï æp/îô\;ŸzLiü , ¦‚Ù<×,ëé„MrˆNİ£Uâğı´]Ñ#N:µµ7)ØC'QÑŒ×-KAA»’áÊáSJÙ°Ùjñêöƒ0L›«-¯?õ…‡ÑªÅõâc=öf*(7ÑØ\ƒWËøi²4A3 ì!×ãŞµÒ§?5uWêÃÛ T<‰¶0vÄB|ki“Ü¢HŒX?İC"’¹:ÛS93S~u#\E_BîM$nú€ÜÀSÊåJ÷“…‹÷˜äV¥USzÑ^d#À³5ëUjÒ¢‰±@¥ñ%FY
+ÇÓ
+«3ï°¡ÏS+¨Ü”“°3%Ù÷¤<Y—¾úÌ8ù=§ JcÔòi&(Ae±Ê„ÚÀ: Ğé²è:i£Â+İk/®:Ÿ«É^ì‡î¢fí“•öiÆº Š©ÅôÔFæîDïeT,&$ÆÜKâêıÊÍøº”ZÌ„ÏQÏÉŞ‰üy$³?¨ïS-fS´Ÿ¶®©õÔ²Ï”¬“ß¢ÿ
+Kùù­T·;à*‹÷ó[ûÿ×[lÚŠû‹+İ¿8¿Š¶>wgO7É7#DHC( !üüıVÀ”cR°‘ÙWyô’5™pC®q¹)®C}‚7éËğœn‡ãä‘LGÛî¹2,—š"Ÿßt6ÖSÎ^›£ÉáNïêßu¯&Ø¿„ğz®G:*ºëªÊìôJ.K¯¬Ëª@*OçıdÇ´
+©:Ù¼'#INÊ+¥G4ÿâÄØü$d³÷Æõ94„*ğsıˆ¯r·öíĞQ8
+èØ-)±šMa”ë$B!SÊ±¬°»Ìşj{é€M‘AYQA‰!Ï¨Ãu¸ÅÕ¸ÖÀ/,³8*ì¹KÑmYL¸mcfPl ß¿!î £Øds¢pTº&?¥
+¡ÇD0‰÷6;)>C”‚DKËì•Å×]¯•|Ó^²¹9ày'ÃIêy^~ıııïìïôòòóÛ‚ù8/"1<0 ÑÙĞXÑØŞY‰r©²¼åö˜EOÑ÷wğ–Pã˜¹9
+¹/1H£¶  là¦°0Ë“â	)"“â¸‚^1 Ü¯aÕn-ÇÀôcŒ2•·ò]¯K_u9}Îïäì9Ş; À0x}õWø§Çm‰?Ñ{´²»ïòaS:¹ÿÿóã2íÁº…Ã^||DÙÿØç<9ğÿÄçÕøà9ğ/-Ã`ÍÄ`g~jri4âŸ¼5ÓKÍ¸EÍq˜ÍÕHQI®°˜¾9»¬,½éªk9nÅ¤Z‘Fˆs²…¢d„K¹S¾u—ëû{Ñô$¤MåU˜³SâS²£S…Zs&‘Ğ…/¬*¢yó‰.{{sTeXŒ+s±²~M_y×‡ÿås½§Ş›Æˆ°°Ùz)SWh&Jÿ®ã±pò¹ÿ<‘‡O>Ü¿§çáÇGçşo<šy¤“]ÿ±)d˜ëF‰ÁL5ış®ÿ(ÏĞÀ¬{`æŸÿ,?÷ÇïŠşøW?t¢˜—
+dN× 3LFºĞcÃ½-ChHÕrşXƒ‡#ÔîÖçµ³íNa İm.Ë²#åe¥e'ßê™¶Ï+}o °G¼y?kÏoÎÏ¸Î…£ÎD#ÑĞĞ9
+ºZ‘k˜+kØvcê.ŒÚíN¼F'DcCËÈXÎC¨¹ÙÃg¢"3íÁâËÀo¾Cîr=û	`Ãƒ§	šœÃ__ää&3åœ‚ä}Æpdî¤åÔ,šßÙÅú7¶6ÎÆ¦QcÑ]k,úİÑ+üõD7L;åtØ3#éy%Ç,²Ê92\(æ?ØÄ'–íVŒŒ÷6¢¥İ‰×ÄÎÚl—CEıñC.M2ìt¿;vÂ9`Éç,øu”ı4 !°-Ç•ôOºCÓÌJ¬/—Ót’Oí`©Š
+øøA¼^_Ä©4–ç µù1VŒ®FÂR¤$¿ ¬P\”Z€¤F›B˜}™±è Ü³ør”çüÉ†·ã­ı]ópûÔ4?~Ê	êRİô€jÁ4ÆòR÷vÊ‰Ó¤¶º¦·‹zk%y}%íFFSˆ€-¬2ïro"×[æ9j’­·ÕáuÃ";
+câ1jù”GVnZnª‚ó%UÇ£¦²RÕy¥FìXd ˜ÜÅ*;ØY;´©î`Ì | ™÷>‘ªÆt²b•NÇÁ+pg!?Ÿ¨'ªP™.]%“qü”Jázd;˜È*Ê³” ¬Oò"·cfÜ¤6j9ğ¹SpUip=íV¢ğmE¶Ï@¨ VÌ>‚~zBn‘ÏãSQ¿-0DcQ€i¬Ö÷•*ÌÚfé7ërÕBgkfÌîyˆ?+@dq`àušW>­r’K‡ìk„¯“O?§ª¸k8ˆÜ¿g#âÇJÊ.,Á@9ûšEsB7üè;Ä#¢ü‰ĞÇT~Äå¨G²ğ¹^â}BÅçúKÄ)) ¤x;\K‚é7áÅ`t7ûÙÍù‘¡y\R¾…¹©Â™ØØ5Ú"LcVš%FNXšşp*sY`åäyªÙNë¡¶sük>Ô84a»<‰	õ˜ú±%°ßo°i&Ú‡İ1:ûjD®ßLI¼·“bf¢ûÁs¬#fó;çK¶Ğ¤o¢À§ëî½õÉçÀÌ«{+`;ø’ôâ%Ä—/@V-
+š¿üjp[·nOÚÎß»u‡_ı­t4G#ÆErœ¤^¥6àÀmZ‹Ym-©Ë¸‚Üè¿quzçŞ
+¶ï®ô­:Èo¯­=ÜÛ¹¡ 5)L*“N]§j‘6s¸	t¥Zê4Ó{”<æÕÀWÀ€«ÒêØMæ‚z´šu*/uE)fVšTFî”õâMÊnW …oÎEŞfMÙ¦ÓÅa¾x°Ô×¥7œ¥–ÒÓH%Ënc”ş·áÓDCäü³’éúøßHdü+/Bôšë7İKÜVrY^±<knÈ³™Y”ØÂFXú?V5~\ã“ƒããŸ"ñş7‘1ò
+endstream
+endobj
+47 0 obj
+<< /Type /FontDescriptor /FontName /DQVERL+LibertinusSerif-Regular /Flags 4 /FontBBox [ -1325 -256 1269 928 ] /Ascent 894 /CapHeight 647 /Descent -246 /ItalicAngle 0 /StemV 73 /XHeight 429 /FontFile3 49 0 R /CIDSet 48 0 R >>
+endobj
+50 0 obj
+<< /Filter /FlateDecode /Length 763 >>        
+stream
+xÚ•]kâ@…ïó+f/
+í…5É|5E„¨)İ¶[KÙ[MF7 ‰ÄxÑ¿É<Ú–eé®PéIŞ™÷<gÆ™‹oO‹AZÔ+7×¡xv‡úØän0ı¾Ü³:?î\Õ>8W¸âüöp+š:_¸V\Nç³yU¶W]ñ¼Ê·ÇÂ«ş^4q›²ú(éûˆË÷s0ûñš=ßîË•kÚ²:®)×ƒg·9n—Í ì¿”í¶ô_õ¢+_	?é«ke]İŠè:ÃîAVÓz×c‚áÉºaÖeU4'ÿbÕÓQ,Š2oOÊç».¿~ğâíĞºİ¼Z×Áh$†]çòĞ6oá*>6Eç¨ÚˆË¯­v¥‹ã~¿u½-ã±(ÜºëĞå÷°Ü91ì3™İÛ²}ûG8C_ŞöNÄ^GØÏëÂöËÜ5Ëjã‚QI8£»î3\Uüñ>dÔjì
+ÎÿŞ˜ó«ü×²ñÉn¢0Œã±W
+%Q¥P¥QeP7(‹JP7¨• &¨5CMQj†ºCe^E‘W2DÅ¨ƒ„!Â§Äg„3‰³ggÎ$Î"œIœEx‘x‰é§èÓAÑ!&	E1D
+"¢îP0h$®5®%Yk²–Ì©™SNQô©>5>%™i2St×tWt7tWˆ^^»À°ÎÎìv…OƒOEÖ†¬Y²VdmÈZ‘µ!kŸOÁgàSğø|>ŸOÃgáÓğYø4|>Ÿ…OÃgáÓğYø4|>Ÿ…OÃgáÓYˆ4D"‘…HCd!ÒYˆ)¥Ìbá›@dq=Á§¥rBeJeFeJì)ì´)D)«’â3óÎâ‰'’¡ŸÓd=Q|ú½'ò´¶æ¼¢‰L?xÎä´ı²MN©°ç~ÚI‰1ŸV=1ÓOë•˜Ù§õJLö¾^şdó'Yö§ûûÑ››¦;wıàOÕş<-+÷~Kìë}?Êÿùëå|ÿõêñ.øhLÛ^
+endstream
+endobj
+15 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /DQVERL+LibertinusSerif-Regular /DescendantFonts [ 51 0 R ] /ToUnicode 50 0 R >>
+endobj
+51 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /DQVERL+LibertinusSerif-Regular /FontDescriptor 47 0 R /W 46 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+52 0 obj
+[ 13 [ 244 358 ] 16 [ 316 ] 27 [ 256 ] 34 [ 740 ] 36 [ 706 734 609 545 ] 45 [ 577 899 ] 51 [ 716 ] 53 [ 652 ] 57 [ 718 ] 66 [ 506 542 456 561 489 391 521 619 322 ] 77 [ 325 905 616 551 581 ] 83 [ 428 427 358 598 529 ] 89 [ 561 ] 161 [ 506 ] 163 [ 506 ] 167 [ 456 ] 170 [ 489 ] 173 [ 322 ] 2165 [ 641 ] 2192 [ 633 ] 2194 [ 524 643 604 531 599 ] 2200 [ 364 ] 2202 [ 537 707 652 589 550 ] 2208 [ 588 427 578 606 572 ] 2216 [ 472 ] 2218 [ 600 ] 2220 [ 600 ] 2224 [ 524 ] 2230 [ 364 ] 2238 [ 589 ] ]
+endobj
+54 0 obj
+<< /Filter /FlateDecode /Length 37 >>         
+stream
+xÚc`kĞgq°~ß
+UF(`â}û~¬hb "¿~
+endstream
+endobj
+55 0 obj
+<< /Subtype /CIDFontType0C /Filter /FlateDecode /Length 6554 >>       
+stream
+xÚÍZ	\gÚb’Qil£˜Ñ´h«VëêZQÛª­µj=QŠ¢rCä†„S’@®Éä"	÷}¡ĞÖ£Z©[í¶µ¶Ûµ»nkmû[İwÜ—ıö›p(Zuûíñı~ä7™ğ¼ïs½Ïóÿ?'ÖÄ‰,''§Y›7lÙîµiÑÖğ€à¸„ğ¨ÄøİÁqá!‹_‹>äø|íNÏÑ¸àô,=Û…EãhÂ™6ñg›ËÄYwkáÕYÁ_IölËiòTÇ«ñ™YH¯Ë\ær~®‹‡ãÚe‹ËìEì•*tOØqÅ’¥¯GÇ$Ç…‡†%¸ß¿Z¶ôWË/[ºìWîŞaÁî÷İwÆEG&¸¯OL‹‹_2î£áEİ‹>|s}Pt@ğæ à¨„ğ„dóó‹Çzš…±æ²<XóXóYÏ±³–°–³V°V±^c½ÎÚÀzƒµ‘õ&kk3kkk;kk'kk7Ë›µ‡åÃÚËòe•³*Yµ¬V’ˆlÄ„˜’ƒä!H!R„#%HRT •HR‡4 Ç+r9åÌrrè°µnsµE±ZYçÇ7Np™ p~ÃùöÄ0ö<ö§œî>î÷H
+r~’xÒ­ÉñS¤./¸”ºüõ©;<ïSÉ§]6>3÷™×·PO”v™ïÏÿëôŒ;f|ç¶ÖíøÌx!¨Ä8XÊ¬E³¾œ½höI<‡é>Å];Ÿó‡¹=ôì2M}³Ç‰yõèqÖL¤Uww©8ŸÿçƒW	¼
+Mì!İËw\AÇ;LÃŸ±‡²¹p?èãCÇpƒÃƒgápÒ	<sÙL(?6$0!®,ºDAä©*2±û6øgàŠ£”4'Ój<QU[‹ÔÖVw7¾ˆhßƒóà^ üÌ©4;ƒj äWTväådZ¢	¸Ÿ#ŠH‘äI+	”ŠîîvÒ‚>gĞ÷UşV”şm7û³yO& Àr@8óOŸæ7FÚlM­mÂúÀÀpaNMüÙ=Ø¡n
+ÿ;k®„õwÖ9	«‹"vÕåpùİ´¬úŒßvÁ¨¯Ä€M€+sC£È`õLy)ÇĞ¹\“h”#Vê[ª­}€´ºxšr¹1HA&Ÿ‚ô ›,mGX#‡Ì±Û"U3ïÉ32ı÷e‚uûu…í`CüÄ,EOü$°³9_@)›K{éß´;YÁ"gz”ózçõ‹„Y‘’+Á^Ù°:ö"/‚Y`)xñs0LxÇ++ª‰\e©.Ç¨èÍì’õ#†}ş68ƒûà*8Æ,n‡>ßEøàÓ”›lVÛé3v'Àî ‰Ùl›nûBmÃ~«üì%¢Ë~ìÚO°º€ ‰û&±@ÈÑj)cEô«j•‚¡y\Ïh¥·
+½«­Søônuiğ-‡¯ÀEptÚ¶öØÜqŞ€Æê;/Š—]/vı	¸£·Á'´5ØÅ©,ªªÄ¿â\)ŞXNäªË´‚ŞT´+¾S›-I©pô¶*%“ŒÇ`Gó,åKá£îıHU¤`ôñàz¦(ßPİí¦îPÈàt}£Öù=†¦SRc¢ö¨
+y]ì¿{-6Ÿ“˜TVC€ä«ÜÁ’$a”7hŒF„l&KšMT9UËG4r9â­É6a¼Lu(í9£Êß0¡7ğøà‡–P7kê+TU÷à«Ağˆ¡ßp®T64oØĞ«ª™ß“c†Ş5´çq†w¼ºLÙl_6“]R#â­Ö_ğ*5vú'ñp˜¯™œÁOvş(½ä4AÏç^«Õ÷ëğÑÿ_EF’Ã!vñø1æjÛpÏ©ûãSKå¼±Wji3ÔŒOCvÏerëV¨FD«ÀÈlØÕptëİE áV+5[Tˆ†;jÍIêª¾¾“<6v*ŞÔ©tòk‘ô*7å;†¼‹ú‘»ğ€Úzíd+8ğMz'<¬‘Ÿ9¨4’Yë‡–ºÉwdÄ{)F—­§©ÊÊÓdıØ²›ŠzÃ ‚VUÓSØzğ’²³t9r#f4ëÍzõ‰t5[Ëá•RûQhµƒöv×·	`z
+üÏİ¹ü@¨Ï
+ÄözôÁøÍÁˆf‚Vp?3g%äÌb“àklÿ†öƒ§1[¯Î`!ôÙd‰Ò„ø'TÚ™"8„°ß)ÿ´÷'-íô6+^â³»wğáÔõI+ñCÀs±¢¬ï½ã!çİR7Ñƒí&±+(fÓ ½ LåÓOs?°X[ğrÎ{Ü«EDN	¥7¨5«SÑKv ”ZKâè *:+^Æàj}N6è‚	µZMJ©ÄQZŠÈ\ü¼´½êÖÍ±ZB¶C(sÈkÆ²^êƒ}dÏ˜³‘5º“{`ÙÒÁ³àP““ìøÌş¬w¦7^çW…e'ïVÊÛ¨O([ÛÇ#Á"ùÃºXsÈ;p	HrK<¦É.*ØàVÛRoêÍ$’|›LHğ¡]<FV9¡*HM‹ŒñúøIf™$%¯‚in‰Vªp@7*Hn"ƒVP‘Š‘±«J¤­>Àt+Ö(SEĞ†¸E‡†eú+ï%Ò{TEÅûP¬rP—ZXXßxºí=û{–¼lu^ÂÛ/=½ã#ğ­İõp™Ç$Ëd0m]İü€ìšäX[Y³•@¨s•¦"=*U&a‰òânB<ØÀcYİª×àÄÃ›£sÛZªË+¤‘4âj‹Ú¢e eÊ=†Ù›“!Jl±Ñö¹ë£^llıºî½Æêc8^åC7®8..5;”V×`Õ5\ª x©=EDO½äyÌ	¼¦O&7š/3­òTg(ƒqô¸27G•ƒååXòÍÅHdÛi'œÁ$Æ†gßMZ‰öP?‹vÄ'LE€½Üó:«7géexHÆÉ•*ƒ’dÈ9…Ü( Óa$¿üX¹®ë¶ú/X•‘—£r+’ŞBéoÀ;ÓÍ0gzõ×ü\u‰	OŠÂÖí|¸ çªş>kAPGÄèjÄXcEUCÇ÷¡œüìğù-^m!DH[gÚ%ìô ½¿•à™¤À-»DªæY™&ö˜~@_¯MÑ2(“"³ZNçšµFu©Úˆì1H
+ßĞ>\ôø#9zÏ8‹~hLŠ7DaÙÌïÌe»ƒ‰è–ªô¬æò‰ü2Âx’Ÿ"òIÌÀ|ƒÀ¤>cgIQSTSXUW©"*	Hr352*ç½%ıXn¨Qƒ£*Pô&ı:àóì‘cèíWü:¾'²)½A ²8•†¢ü¯"nÀçôæ\è².ŞU¶ıxŞÚz	¼Øüq‘§(–â0ÌçSÍ†ÖüR¤²°Æ’ƒÕXc×È5GÕj<½T"¢§÷€8»Ó`º3å¦ñùwÜâ"C.QÁ5’ú$|ş)XĞ^^^¤O‹ÏÆ…æê¸ìXeÙñš#'çìßL0Qò]$«¹áŠL"†›¥WUà=0‡³*U¶ı^	°STÿ	òø½°]—jşRÀB™¬ıÓx¾ˆZ•§\s€ÓÚ[™˜?x?¢í}t(óks­%±uÁwEÄFhGŸ%Y¤õÇ–&F±1Aûo×ùtÅâhçº#1~>bA’.Ã’†£'İÍé¹™¥räPìA¯AHî¡š$<¦í‚¼s ÄÁıÔ½Lz<°¯‚³×cÉ1Z[¡%Ÿñ‚´¬ŒlÀNÌ«o"êªK›;ÑÖğZÜb:VlÁÌÙr¹8ª/Uaègî°ch%ÿ·ày•Ohj@D2‘|dŸ:Ûìß}ªIS‘SJ(-yê2&ö.¸À_»-óò©ËÅ5m'Kƒ^Æy˜ˆ —GN$ğ2“²Wé*G`–rÁ„ı=+B6„„yá ”‹Ş|âYÚÂõüY ºÆà°.ÍÌ´œÃÜjû±ÜbÌÖœìEÀ5Ü•©²€qRT×aC¯¦2ºz‰ï€iN?9²'Íqü¸=ú#3¦ãÑ’Õ™ej¹V¬e:¡Â’é%€Ş\O‰z»âşòvª¯¯}|Vè%ºkˆÑQüˆÊ[GuKu}BËáı	ÂH†$•ˆî¾>êÔúS©<ÿq’]Ğû¹èà½Å·‡=ŸRäú=ãö#Óf¡WAÒˆ]Á ¨lk¶a¶úÇyêÿêR?1q«"KU¼¤õxn!f«ıE^ññpÌ™˜¯îÂ§ÖíÄB_zh·ª^U¡ WsÉLC:"İ‘ş°¯w<Â×µã@/e|Í;7l¹Ó÷#éæ<bğnÍVZü[§/“£{ãªfe½Fğ¯ë§–Úi£5¸_àîl|8ãÏ+€àÒû¥ÖvüTGÑÅ˜±ì&\à¹-Ê?>˜²c§ Äƒ½ü‹«álè²_ºJ¦^şcáÕ	^-;øşC§o£72‹~Îò‡Vş²ä“¸’ò29Ã _¸õxn@t6¨hó-Ø‹Eí	†rºVUşÓ™>¨b*-×¨1ÕuÖ¼
+¬½ËNZ¹ø×’8cMS›Ÿ)KÌÙú~$$eü–œ‚¼¦ê˜³0sLj"2³‹2+°ºÚz{ud}hXpäæ„’£®Wtkf2Ó”íÏğIßœÅì4²·ì1n„•<è*m£'ÙÎöW qîb‰şmÃ~S0"/ù u ûíwö¯›2kªˆèÆÃUJ‘À¢ôÆ:AEII]s“p{^¬Ê¡,ÙH‹²UÖˆçã,Ş˜¯X($$Ñ1‚ÈÜøŞŞVŸØ’sBãBaJŒ¿_çÇ"<U—I¦*Ü+ıü¶<gvı=ã5 ÌŸúã9z#?=M)9JDq©ÇÏsÔóI8ÍWf/KÆ“*Zd•Xÿ™ÚÚR"WnÌ°àÒ£qP•XÔCôùAğ#Ç’ÏÀİ®^¥Uàèu8‰C5±µê:5£JÇÜº‘"ÉJ%R²¢äY2$K¦ŒY#àuH/ÓˆØéúHp¦³ÁL>XÏıR›Q)(R2tO&ÅdRô*hx"§…Y+pWª‘RR<. BŒF>"Àš%Edò¾`êĞ=ÉNu™”‘\Êcßó»–ëßÃµqÚ¤'`^¼YD/s é@°	ÌpßÒóùï(³S÷½ßrSÊ”Ùªì­`£›Ú 6úôVyş€a4ğ!d ùvØ>*dlÿ÷²´âR_0º¥‹äy˜¥T[f&Àlp¡´#¯¶Ï0sT2‘’‰!!TÌ=Íy&†qpš\óÀKğ%àf‚=\_‚^o}Ì?ûµŞ Óé3»–	¥ª0ÅØ¤”:Gõõ%KÇ’1Ä'ìZf¸)LN°Üj›ZrÆ ;zFL!#‚(ñ½½Ñë-*“DµçU7•B¡Qfûâ&jÉÓ¶q1¹…ô~ÛkœHGiL`-q¢:¥F)Ïšù"äÄ	J"•cš¡ƒ¥TÕxüä}İ˜}’õGŒåÿø¾˜ä{Âl¹L-“ä¦L“ğ¹ù8¬XÒ
+¶%3)?Sd’¤Š¸§ÿ•„—ÆÛĞô3„ÿìÛ`¦[ù’XM~26ŠÌG°0áá}©Dz¾2oÍ)Ô–cÅ¥Ê£¥jO+-—W`Vkó{EDnº)Me¥chSæ÷‘<g!Öcôâ›sÎ`ı|~‹ºO,ˆ§GŠ%zK.S’RAF…YÑˆïµõôû•ú›‰¼¶N¯ÑRŠ”4D5¥”üµÛæ¿D7ğ÷r"ııCª’ÜlÕµÅ­mÍ!uâã±U%n!íÁ'"»‘‡ÜÏFĞÜ¿ÊyÑİ¿8?ÌG,bfw½ÍTØíô2†i	˜ÁíT˜%{†7ÎPûÛ¸…ê~T›öã¢İ÷M@¯¦É£ÔájFŸ`(Í…ºòce)¸0·*ÂŠ5×•w'5)"Š#öåíÁ¶íI!ø†lÁÑnxHZ&‘2ÂmÉmz­ã4Ø«O31ùsu˜İdâ^±k3ğ€ô×èmºñw|HĞnl¹dUl†ÒĞŞˆİ7n\Ë”šªº³O‚ë?u3ëõº"Ìæ[˜#QøEµµwİAĞÛ‡u±ú”“l“ù©
+m¶8^b8ïÃµl^”´—esêdÀ8Ë mHÀ§_‡á´+sÀÖÏÎ{×F¨,2“LøúyI÷b¾ëêÁK`ùûí}.
+XSIä(‹ƒä.y‡ô¢ÛÀ¼ã}£¶ÑÓlN`»0ÇÂ[¦wwª?Ç˜êït¼şÉ‘K»NMşÛ‹6`1š¤é­9Èt»y£6œQÊ<0àAâBÙ{¨ìü×|ĞÏ­*6µ…æ€M€!¢ek¥eµ8ï”Æv5Å+@+zÔ‚b~âŸ9•eU•øIÎ•Ê‘iqñğõ·ªãÒ?İ›ß¢ª5D…ÂGN‹Wsº¾›Ïg÷JI#Ób¿İk±ÃœÄ„œw	ğT9w°H6<ê­W“õ…‚|M›¶—££Ş½ª$õ&Œ—X&¡M`ı¨òÓå½§÷t“äqâ¶Nf8Ì—•ÜÁ<¥ïıbZ*(¥ê¨²±}UiÊMX<xšSYò(»í™ßısv3Œ‰¯Sj›@ŒÍ©•)^ñÀÕ™fóp³ÕQœ,O}\»¯üéÊ™··äùÊMn6y\qBŞhƒ_.òÆà*Èÿô„Ï__¶^¼•sü‘ePäd~Ã­ÍÏiÔâ³¦@nA"ÉıdtänÊ×ÅC)!3ä]U^¦¥»˜"$N2Ç Š9LÜ_ÄA ÷Z¡ùŒ£¤?éí}pÜI@^ªÆN{OÄ§;&â½v¾xd""œˆï%½q§ŸMÄá‘‡'âñO˜ˆ/1‹DôkM®ù·éÉ`šDÇÑ®|-'æê=IÕ{©ê¥jë{É¦1ó¥zùU1(pS5›õ=cqµt†µì,Îs î›‡·©Šª#a¹›Ìó¨*xlÄZÎ$RU}Í}tã¥§rL—k@†ÅA;˜~5ÄVh-*¦·èZ‚w+,‚Ó+DàÀor¬wÁ•wÑ7éù%qeJmîÒ™‹	t†Fq©A $Ük9Ú3üŞ€6”ŒŒô¶¸_™£ò J†¢¤)Ii>“ÁĞ_+ÏÒˆY3ÛÈ‚ÔÜ4ÖpÑEÕv%~oÛAÕ×·ÜŸå#Û-p/n§NY‹S¤VM©^‹ÔF??’¼éLy¢»@¬€>…¡;d/Ë¬:å€çóUà‰ÃàÇÿ¾ò-¸ ¢o­şµğÓ²¶ô\!x*†Ÿí´6sn îèM (ÿ#nfI»ª
+s{¯T'i¯"J£f¿² +C¯2)G"Xó~ÂèÍÑ$îš¨/¬£ò±şªĞ­»Óì'P&Ák–µ%‹jE øØÙ6¢
+æ2*­*F¥Ï¹ª€,’TÙ²l	‚ú}0}¸¶'p ³Öif-Ô5%Êìcd¥¸aàº©J† ŸTë9%èúÎÅGô_ùKõg:â±ûú¯	Ğ'™ı»ı‡õÙê¹C±ŠpM;íŞéÔØÀ‰aší`)_ïcğ5"YÅ¦ùİ·m7ZÒ[kˆ¨fßªeH`I|Eƒ ¦ºÚÚÑ"Üri¶1L³	/†ä2Ls‹(œašq’ˆ(°0¶4o«OC:-Ñ‘‚àÔ ¡'?»Ï4«˜²²ÚæxB’ÆtAğW±óæ~©Ï9ñInÜ+Eøã¬Q¼ŒÍw<yóñÏFrª/`ï›S×p/×S–6şÉH7ÕÛwê'#²†}÷1>yMìôG&±$=Î´?øŠqîÙ*ˆ¬üà+,â~ù‹ÃßàÂù`rÒ°¢á+€â`:÷Ëòqr1ä.Rè¹rFWÂğÈ­MN9@0<’v¡×òÈeğĞ(\üÜ’»äEıÆ¤×}Ù“iN*óÏÃodÀfÉd,Ã Cî3ÈÕ{¼èïNÕgñ‹$,×Úµ¡ğÕJ•Š ıäogî5+ËÕ¹ºÒO*ë)ÀÓ¹iÕoÂ§ .^'Ì”eh”
+A–I^€£1àT¹-yıÙïÌÔËujM?ÂŞ'ïÅæpHİåÊ³êô™5:“^ Wè³pÅAµÃÕl¡Ì¤O&x'ÿ;àÜrú«_Š¨áÔ¡ˆŸC¿qv¾1[î<lË_şS¶Üµ½_¤-cÌïÎ“™ßİÇ1¿;"p‡y_o´ˆŞfsep.@Î1l"üÿÀı²šlìŸÃÂ£pš@»!÷ôB0/	?¸œıÿ ^ üéó­‘~ØáÈÑÈ°Ñ¡)/Åòê“cyó1±ä9¾rö4¹ÌŸÍb±^p|…¬Ñ5#ŞŸ—\-ÍEµ&”Usñ…ªüş¿»LÒ¸L±MÓ§€é—§èşÿŠöƒæ
+endstream
+endobj
+53 0 obj
+<< /Type /FontDescriptor /FontName /IDJNRH+LibertinusSerif-Bold /Flags 4 /FontBBox [ -1625 -328 1562 1014 ] /Ascent 894 /CapHeight 647 /Descent -246 /ItalicAngle 0 /StemV 81 /XHeight 433 /FontFile3 55 0 R /CIDSet 54 0 R >>
+endobj
+56 0 obj
+<< /Filter /FlateDecode /Length 656 >>        
+stream
+xÚ…”_o›0ÅßùŞC¥öÆÛØUÉ$DË´µUSM{MÀé@@òíg| µ¦©‹”(?|ÿœ{ïÍ—ç]¨‹ú`Âø’ÓÕ—67áêÇ¾	nnÖu~9›ª4¦0ÅtÚ=ç¶Îw¦'·«íz[•ıŞVùéR˜)êßA©y+«¡¹}5¿ÂíúÛãË×ğ{y0m_V—ngÚò¦õ©éùZö'›ñÿ`b#È'Ä•ûiÚ®¬«2¿§”ÚYU¬êó0mÌFÅd6Íp,«¢e“Ã0D0HQæıHî7?[Û†äİµëÍy[ë`± ³{ØõíÕ©¿fOmaåToäö6nwiš“4,—¤0G[Şzö¸?2sVö´ì¯Ÿyò‘÷zm‰Ï!<¯Ó5ûÜ´ûêÍk]’ÅÆ~–©Š¿Î)²G ˜şŠx:Êï[WhmQ­–2ĞÚÑœ‚6 ÔQ¬E‘#61Pâ  J@„îİ#tgèÇxBMš±IGZ´0ä	ä1(PÆPE 
+ƒ2eÊ”1	J@è'Æ~¤@˜A`†f`PæˆÃO?ùÜQBAP@5‡êª9T'PÍ¡:jÕ	TsèL S£C_4:d¨©‘—a>‰2¼[‰27ƒLFÏÄ4±TÔó[ªÈsXªØsX*æ9,÷–JxK%=O¥Ò§R¥§R­<O¥Z{J•yJM=Oåè<•:ò<•£7ğTjæy*5”%¤=O¥^yÊ”zÊTø.¦P¶áKÜGwÿ†«;l£÷m‘_ÚÖ®
+·²Ü.¶@Y™÷­ÖÔÍå¾nNkz §Mğ,”ş
+endstream
+endobj
+14 0 obj
+<< /Type /Font /Subtype /Type0 /Encoding /Identity-H /BaseFont /IDJNRH+LibertinusSerif-Bold /DescendantFonts [ 57 0 R ] /ToUnicode 56 0 R >>
+endobj
+57 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /IDJNRH+LibertinusSerif-Bold /FontDescriptor 53 0 R /W 52 0 R /CIDSystemInfo << /Registry (Adobe) /Ordering (Identity) /Supplement 0 >> >>
+endobj
+20 0 obj
+<< /Type /Pages  /Count 1 /Kids [ 6 0 R ] >>
+endobj
+58 0 obj
+<< /Names [ (Doc-Start) 13 0 R (page.1) 12 0 R ] /Limits [ (Doc-Start) (page.1) ] >>
+endobj
+59 0 obj
+<< /Dests 58 0 R >>
+endobj
+60 0 obj
+<< /Type /Catalog /Pages 20 0 R /Names 59 0 R /PageMode/UseOutlines/Lang(pt)/Metadata 9 0 R /OpenAction 4 0 R >>
+endobj
+61 0 obj
+<< /Title()/Subject()/Creator(LaTeX with hyperref)/Producer(LuaHBTeX, Version 1.16.0 (TeX Live 2023)) /CreationDate (D:20231129161253-03'00') /ModDate (D:20231129161253-03'00') /Trapped /False /PTEX.FullBanner (This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)) >>
+endobj
+5 0 obj
+<< /Type /ObjStm /N 1 /First 4 /Filter /FlateDecode /Length 45 >>         
+stream
+xÚ3Q0à²±QĞVĞwÏÉWĞwQˆV0S0PRĞwË,QˆU°³ã —,
+endstream
+endobj
+62 0 obj
+<< /Type /XRef /Index [ 0 63 ] /Size 63 /W [ 1 3 1 ] /Root 60 0 R /Info 61 0 R /ID [ <4072258605EC5DF79B352194E468D13A> <4072258605EC5DF79B352194E468D13A> ] /Filter /FlateDecode /Length 218 >>        
+stream
+xÚÏ1K‚QÅñçMt
+q°µLÁ+h-…B%GSÅ)hÇ(*rĞÁ9êUh
+ü¹åàîèØXÿãòãÀ½Ï¹Ï53ûsœğ‰A]4lÅÌK%`Ã'Ş T5Ç,HÚlƒÿSiMœÂKî¾àì²8,Bü ^ÔÒR½Ûç	Å–÷¦°£Ód	v÷DR9U- =†£'¥_ÈÔàøF¯Í!÷%å¯ÄÊëPñˆ	4›PÛïp{	÷jyØ‚ş £â-¾
+®>í^‹U:ú¶ïá/
+endstream
+endobj
+startxref
+108239
+%%EOF

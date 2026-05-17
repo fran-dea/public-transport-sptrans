@@ -1,0 +1,39 @@
+\chapter{Plano de trabalho}
+
+O desenvolvimento deste trabalho seguirá uma sequência lógica de etapas, desde a coleta de dados até a modelagem matemática e simulações. Abaixo, descrevemos as atividades realizadas e as previstas, organizadas de forma cronológica:
+
+\begin{enumerate}
+    \item Levantamento bibliográfico e revisão de literatura sobre transporte público e modelagem com grafos, além de pesquisa de métodos computacionais;
+    \item Estudo do formato GTFS e dos dados disponibilizados pela SPTrans;
+    \begin{enumerate}
+    \item Coleta de dados de passageiros (2015–2025) via web scraping do portal da SPTrans;
+    \item Conversão dos arquivos \texttt{.xls} para o formato \texttt{.parquet} visando otimização;
+    \item Padronização e unificação das colunas e nomenclaturas dos dados;
+    \item Integração dos dados de passageiros com os dados do GTFS (rotas e paradas);
+    \item Análise de inconsistências e rotas descontinuadas;
+    \item Solicitação de dados históricos via SIC-e;
+    \item Avaliação dos dados fornecidos pela SPTrans;
+    \end{enumerate}
+    \item Coleta de dados geográficos adicionais para enrequecimento da base:
+    \begin{enumerate}
+    \item Coleta e tratamento de dados populacionais via IBGE (2022);
+    \item Georreferenciamento dos bairros e distritos com shapefiles;
+    \item Zonas da cidade (Centro, Sul, Norte, Leste, Oeste);
+     \end{enumerate}
+     
+    \item Construção de grafos:
+    \begin{enumerate}
+    \item  Pesquisa e levantamento de ferramentas possíveis (como GraphFrames);
+    \item  Criação do grafo com dados das rotas, paradas, geográficos da população, caracterização das zonas, e  quantidade de passageiros da linha;
+    \end{enumerate}
+    \item Análise do grafo obtido:
+    \begin{enumerate}
+    \item Análise de conectividade e robustez da malha viária;
+    \item Simulação de cenários de estresse na rede de transporte (fluxo máximo, gargalos, etc.);
+    \item Cálculo de caminhos mínimos e medidas de centralidade dos nós;
+    \item Simulação de impacto de novas estações de metrô e alterações na malha viária;
+     \end{enumerate}
+     
+    \item Análise estatística e visualização interativa dos dados em painel;
+    \item Escrita e revisão da monografia.
+\end{enumerate}
